@@ -1,0 +1,666 @@
+One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.|||DisSim
+#
+Able-bodied Muslims are required to visit at least once in their lifetime Mecca, Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+Islam 's holiest city is Mecca . <SEP> Able-bodied Muslims are required to visit at least once in Mecca, Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Able-bodied Muslims are required to visit at least once in Mecca, Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca , Islam 's holiest city. <SEP> Able-bodied Muslims are required to visit at least once in Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Islam 's holiest city is Mecca. <SEP> Able-bodied Muslims are required to visit at least once in Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca. <SEP> Able-bodied Muslims are required to visit at least once in their lifetime Mecca , Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor NonRestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca, Islam 's holiest city. <SEP> Able-bodied Muslims are required to visit at least once in Mecca, Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca. <SEP> Able-bodied Muslims are required to visit at least once in Mecca, Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca. <SEP> Islam 's holiest city was Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Islam 's holiest city is Mecca. <SEP> Able-bodied Muslims are required to visit at least once in their lifetime Mecca, Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor NonRestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca. <SEP> Able-bodied Muslims are required to visit at least once in Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Islam 's holiest city is Mecca. <SEP> Jeddah is the principal gateway to Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor NonRestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca, Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+Jeddah is the principal gateway to Mecca, Islam 's holiest city. <SEP> Islam 's holiest city was Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Islam 's holiest city was Mecca. <SEP> Able-bodied Muslims are required to visit at least once in Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Able-bodied Muslims are required to visit at least once in Mecca.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Jeddah is the principal gateway to Mecca, Islam 's holiest city. <SEP> Able-bodied Muslims are required to visit at least once in their lifetime Mecca , Islam 's holiest city.|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+#
+This was in the methane cloud deck of Neptune.|||DisSim  PrepositionalAttachedtoVPExtractor
+This was in the methane cloud deck of Neptune. <SEP> The Great Dark Spot is thought to represent a hole.|||DisSim  PrepositionalAttachedtoVPExtractor
+The Great Dark Spot is thought to represent a hole.|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+His next work follows an especially eventful day in the life of a successful neurosurgeon.|||DisSim  NonRestrictiveAppositionExtractor
+His next work is Saturday. <SEP> His next work follows an especially eventful day in the life of a successful neurosurgeon.|||DisSim  NonRestrictiveAppositionExtractor
+#
+The tarantula spun a black cord. <SEP> The tarantula crawled away fast to the east.|||DisSim  SharedNPPostCoordinationExtractor SharedNPPostParticipalExtractor NonRestrictiveAppositionExtractor
+The tarantula was the trickster character. <SEP> The tarantula spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.|||DisSim  NonRestrictiveAppositionExtractor
+The tarantula was the trickster character. <SEP> The tarantula crawled away fast to the east.|||DisSim  SharedNPPostParticipalExtractor SharedNPPostCoordinationExtractor NonRestrictiveAppositionExtractor
+The tarantula crawled away fast to the east. <SEP> The tarantula was pulling on the cord with all his strength.|||DisSim  SharedNPPostCoordinationExtractor SharedNPPostParticipalExtractor NonRestrictiveAppositionExtractor
+The tarantula spun a black cord. <SEP> The tarantula was pulling on the cord with all his strength.|||DisSim  SharedNPPostCoordinationExtractor SharedNPPostParticipalExtractor NonRestrictiveAppositionExtractor
+The tarantula spun a black cord. <SEP> The tarantula crawled away fast to the east, pulling on the cord with all his strength.|||DisSim  SharedNPPostCoordinationExtractor NonRestrictiveAppositionExtractor
+The tarantula was the trickster character. <SEP> The tarantula crawled away fast to the east, pulling on the cord with all his strength.|||DisSim  SharedNPPostCoordinationExtractor NonRestrictiveAppositionExtractor
+The tarantula spun a black cord and, attaching it to the ball , crawled away fast to the east, pulling on the cord with all his strength.|||DisSim  NonRestrictiveAppositionExtractor
+The tarantula crawled away fast to the east, pulling on the cord with all his strength.|||DisSim  SharedNPPostCoordinationExtractor NonRestrictiveAppositionExtractor
+The tarantula was the trickster character. <SEP> The tarantula was pulling on the cord with all his strength.|||DisSim  SharedNPPostParticipalExtractor SharedNPPostCoordinationExtractor NonRestrictiveAppositionExtractor
+The tarantula was the trickster character. <SEP> The tarantula spun a black cord.|||DisSim  SharedNPPostCoordinationExtractor NonRestrictiveAppositionExtractor
+#
+There he died six weeks later January 888.|||DisSim  PrepositionalMiddleFinalExtractor
+#
+There is no exiting syntactic rules.
+#
+This was to the value of # 5000. <SEP> Since 2000 , the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award.|||DisSim  PrepositionalAttachedtoVPExtractor
+This was to the value of # 5000. <SEP> The recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award.|||DisSim  PrepositionalInitialExtractor PrepositionalAttachedtoVPExtractor
+The recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award.|||DisSim  PrepositionalInitialExtractor PrepositionalAttachedtoVPExtractor
+Since 2000 , the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+Following the drummers are dancers . <SEP> Dancers often tend to have more elaborate -- even acrobatic -- choreography .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor
+Dancers often play the sogo ( a tiny drum that makes almost no sound ) . <SEP> Dancers often tend to have more elaborate -- even acrobatic -- choreography .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor
+Following the drummers are dancers . <SEP> Dancers often play the sogo ( a tiny drum that makes almost no sound ) and tend to have more elaborate -- even acrobatic -- choreography .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+Following the drummers are dancers , who often play the sogo ( a tiny drum that makes almost no sound ) and tend to have more elaborate -- even acrobatic -- choreography .|||DisSim
+Following the drummers are dancers . <SEP> Dancers often play the sogo ( a tiny drum that makes almost no sound ) .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor
+Dancers often play the sogo ( a tiny drum that makes almost no sound ) and tend to have more elaborate -- even acrobatic -- choreography .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+Dancers often play the sogo ( a tiny drum that makes almost no sound ) .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor
+#
+Christiaan Huygens was the Dutch astronomer . <SEP> The NASA Cassini orbiter named after the Dutch astronomer .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was mathematician and physicist . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini .|||DisSim  PostListNPExtractor CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was mathematician and physicist . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini , and the ESA Huygens probe .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+Giovanni Domenico Cassini was the Italian-French astronomer . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , Christiaan Huygens .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Christiaan Huygens was the Dutch astronomer . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini .|||DisSim  CoordinationExtractor ParticipialMiddleExtractor PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+The NASA Cassini orbiter named after the Dutch astronomer . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini , and the ESA Huygens probe .|||DisSim  CoordinationExtractor ParticipialMiddleExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was the Dutch astronomer . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini , and the ESA Huygens probe .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+The NASA Cassini orbiter named after the Dutch astronomer . <SEP> The NASA Cassini orbiter was named after the ESA Huygens probe .|||DisSim  CoordinationExtractor ParticipialMiddleExtractor PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was the Dutch astronomer . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+The spacecraft consists of two main elements . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , mathematician and physicist Christiaan Huygens .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Giovanni Domenico Cassini was the Italian-French astronomer . <SEP> The NASA Cassini orbiter named after the Dutch astronomer .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was the Dutch astronomer . <SEP> The NASA Cassini orbiter was named after the ESA Huygens probe .|||DisSim  CoordinationExtractor ParticipialMiddleExtractor PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , Christiaan Huygens .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+The spacecraft consists of two main elements . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor NonRestrictiveAppositionExtractor
+The spacecraft consists of two main elements . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , Christiaan Huygens .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Giovanni Domenico Cassini was the Italian-French astronomer . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Giovanni Domenico Cassini was the Italian-French astronomer . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini , and the ESA Huygens probe .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , mathematician and physicist Christiaan Huygens .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Christiaan Huygens was mathematician and physicist . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Giovanni Domenico Cassini was the Italian-French astronomer . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , mathematician and physicist Christiaan Huygens .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Giovanni Domenico Cassini was the Italian-French astronomer . <SEP> The NASA Cassini orbiter was named after the ESA Huygens probe .|||DisSim  PostListNPExtractor CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was mathematician and physicist . <SEP> The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , Christiaan Huygens .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+The spacecraft consists of two main elements . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini .|||DisSim  PostListNPExtractor CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was mathematician and physicist . <SEP> The NASA Cassini orbiter was named after the ESA Huygens probe .|||DisSim  PostListNPExtractor CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+The spacecraft consists of two main elements . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini , and the ESA Huygens probe .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+The spacecraft consists of two main elements . <SEP> The NASA Cassini orbiter named after the Dutch astronomer .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+The spacecraft consists of two main elements . <SEP> The NASA Cassini orbiter was named after the ESA Huygens probe .|||DisSim  PostListNPExtractor CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+Christiaan Huygens was mathematician and physicist . <SEP> The NASA Cassini orbiter named after the Dutch astronomer .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+The NASA Cassini orbiter , named after Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor NonRestrictiveAppositionExtractor
+Giovanni Domenico Cassini was the Italian-French astronomer . <SEP> The NASA Cassini orbiter was named after Giovanni Domenico Cassini .|||DisSim  PostListNPExtractor CoordinationExtractor RestrictiveAppositionExtractor ParticipialMiddleExtractor NonRestrictiveAppositionExtractor
+The NASA Cassini orbiter , named after the Italian-French astronomer Giovanni Domenico Cassini , and the ESA Huygens probe , named after the Dutch astronomer , mathematician and physicist Christiaan Huygens .|||DisSim  CoordinationExtractor
+#
+There is no exiting syntactic rules.
+#
+The debris thrown up by the collision filled in the smaller craters .|||DisSim  SubordinationPostExtractor
+#
+Graham attended Wheaton College to 1943 . <SEP> He graduated with a BA .|||DisSim  NonRestrictiveRelativeClauseWhereExtractor PrepositionalAttachedtoVPExtractor
+Graham attended Wheaton College from 1939 to 1943 . <SEP> He graduated with a BA in anthropology .|||DisSim  NonRestrictiveRelativeClauseWhereExtractor
+Graham attended Wheaton College from 1939 to 1943 . <SEP> He graduated with a BA .|||DisSim  PrepositionalAttachedtoVPExtractor NonRestrictiveRelativeClauseWhereExtractor
+Graham attended Wheaton College from 1939 to 1943 .|||DisSim  NonRestrictiveRelativeClauseWhereExtractor
+Graham attended Wheaton College to 1943 . <SEP> He graduated with a BA in anthropology .|||DisSim  NonRestrictiveRelativeClauseWhereExtractor PrepositionalAttachedtoVPExtractor
+#
+However , the BZÖ differs a bit in comparison , as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal .|||DisSim  PrepositionalAttachedtoVPExtractor
+This is to the Freedom Party . <SEP> However , the BZÖ differs a bit in comparison , as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal .|||DisSim  PrepositionalAttachedtoVPExtractor
+The BZÖ differs a bit in comparison , as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal .|||DisSim  AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor
+This is to the Freedom Party . <SEP> The BZÖ differs a bit in comparison , as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal .|||DisSim  AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor
+#
+This was with European settlement . <SEP> Many species had vanished by the end of the nineteenth century .|||DisSim  PrepositionalMiddleFinalExtractor
+Many species had vanished by the end of the nineteenth century .|||DisSim  PrepositionalMiddleFinalExtractor
+#
+Wexler was inducted into the Rock and Roll Hall of Fame .|||DisSim  PrepositionalInitialExtractor
+#
+Dextromethorphan occurs as a white powder .|||DisSim  PrepositionalInitialExtractor
+This is in its pure form .|||DisSim  PrepositionalInitialExtractor
+#
+There is no exiting syntactic rules.
+#
+NRC is organised as an independent , private foundation .|||DisSim  RestrictiveAppositionExtractor
+#
+It is situated at the coast of the Baltic Sea .|||DisSim  NonRestrictiveRelativeClauseWhereExtractor
+It is situated at the coast of the Baltic Sea . <SEP> It encloses the city of Stralsund .|||DisSim  NonRestrictiveRelativeClauseWhereExtractor
+#
+On October 14 , 1960 , Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union .|||DisSim
+#
+Fives is a British sport . <SEP> A British sport was believed to derive from the same origins as many racquet sports .|||DisSim  RestrictiveParticipialExtractor
+A British sport was believed to derive from the same origins as many racquet sports .|||DisSim  RestrictiveParticipialExtractor
+#
+King Bhumibol was born on Monday . <SEP> For example , on his birthday throughout Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+On his birthday throughout Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+Bhumibol was born on Monday . <SEP> For example , on his birthday throughout Thailand will be decorated with yellow color .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor PrepositionalInitialExtractor
+King Bhumibol was born on Monday . <SEP> Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+For example , on his birthday throughout Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor
+Bhumibol was born on Monday . <SEP> On his birthday throughout Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor PrepositionalInitialExtractor
+King Bhumibol was born on Monday . <SEP> On his birthday throughout Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+Bhumibol was born on Monday . <SEP> Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor PrepositionalInitialExtractor
+For example , King Bhumibol was born on Monday . <SEP> Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+For example , King Bhumibol was born on Monday . <SEP> For example , on his birthday throughout Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor
+This was on his birthday throughout . <SEP> Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+Bhumibol was born on Monday . <SEP> This was on his birthday throughout .|||DisSim  CoordinationExtractor RestrictiveAppositionExtractor PrepositionalInitialExtractor
+For example , King Bhumibol was born on Monday . <SEP> This was on his birthday throughout .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+For example , King Bhumibol was born on Monday . <SEP> On his birthday throughout Thailand will be decorated with yellow color .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+King Bhumibol was born on Monday . <SEP> This was on his birthday throughout .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+#
+Both names became defunct in 2007 . <SEP> They were merged into The National Museum of Scotland .|||DisSim  SubordinationPostExtractor
+They were merged into The National Museum of Scotland .|||DisSim  SubordinationPostExtractor
+#
+Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> Haida woodcuts numerous styles by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> This is from the west coast of Canada .|||DisSim  PrepositionalAttachedtoVPExtractor RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> Tagore emulated numerous styles ( British Columbia ) .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida woodcuts by Max Pechstein .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> Tagore emulated numerous styles Haida woodcuts by Max Pechstein .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> Haida carvings numerous styles from the west coast of Canada .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles ( British Columbia ) . <SEP> Haida woodcuts numerous styles by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> This is including craftwork from northern New Ireland .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is from the west coast of Canada . <SEP> Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida woodcuts by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> This is by Max Pechstein .|||DisSim  PrepositionalAttachedtoVPExtractor RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is from the west coast of Canada . <SEP> This is including craftwork from northern New Ireland .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor PrepositionalMiddleFinalExtractor
+Haida carvings numerous styles from the west coast of Canada . <SEP> Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida woodcuts by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Haida carvings numerous styles from the west coast of Canada . <SEP> This is including craftwork from northern New Ireland .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida woodcuts by Max Pechstein .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor
+Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida carvings from the west coast of Canada ( British Columbia ) , and woodcuts by Max Pechstein .|||DisSim  AdjectivalAdverbialInitialExtractor
+Haida carvings numerous styles from the west coast of Canada . <SEP> Tagore emulated numerous styles Haida woodcuts by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> Haida woodcuts numerous styles by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is from the west coast of Canada . <SEP> This is by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida woodcuts by Max Pechstein .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> Tagore emulated numerous styles Haida carvings from the west coast of Canada ( British Columbia ) .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> This is by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor PrepositionalMiddleFinalExtractor
+This is from the west coast of Canada . <SEP> Haida woodcuts numerous styles by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles ( British Columbia ) . <SEP> Tagore emulated numerous styles Haida woodcuts by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Haida carvings numerous styles from the west coast of Canada . <SEP> This is by Max Pechstein .|||DisSim  PrepositionalAttachedtoVPExtractor RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Haida carvings numerous styles from the west coast of Canada . <SEP> Haida woodcuts numerous styles by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles ( British Columbia ) . <SEP> This is by Max Pechstein .|||DisSim  PrepositionalAttachedtoVPExtractor RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> Tagore emulated numerous styles Haida woodcuts by Max Pechstein .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles ( British Columbia ) . <SEP> Haida carvings numerous styles from the west coast of Canada .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is from the west coast of Canada . <SEP> Tagore emulated numerous styles Haida woodcuts by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalAttachedtoVPExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> This is including craftwork from northern New Ireland .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+This is including craftwork from northern New Ireland . <SEP> Haida woodcuts numerous styles by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> This is by Max Pechstein .|||DisSim  PrepositionalAttachedtoVPExtractor RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles ( British Columbia ) . <SEP> Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida woodcuts by Max Pechstein .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles Haida carvings from the west coast of Canada ( British Columbia ) .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida carvings from the west coast of Canada ( British Columbia ) . <SEP> Tagore emulated numerous styles Haida woodcuts by Max Pechstein .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles ( British Columbia ) . <SEP> This is including craftwork from northern New Ireland .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles ( British Columbia ) . <SEP> This is from the west coast of Canada .|||DisSim  PrepositionalAttachedtoVPExtractor RestrictiveRelativeClauseWithoutRelativePronounExtractor SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor PrepositionalMiddleFinalExtractor
+Tagore emulated numerous styles , including craftwork from northern New Ireland , Haida carvings from the west coast of Canada ( British Columbia ) .|||DisSim  SharedNPPostCoordinationExtractor AdjectivalAdverbialInitialExtractor
+#
+John F. Kennedy was Presidential candidate . <SEP> This was on October 14 , 1960 .|||DisSim  RestrictiveAppositionExtractor PrepositionalInitialExtractor
+On October 14 , 1960 , John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union .|||DisSim  RestrictiveAppositionExtractor
+John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union .|||DisSim  RestrictiveAppositionExtractor PrepositionalInitialExtractor
+John F. Kennedy was Presidential candidate . <SEP> On October 14 , 1960 , John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union .|||DisSim  RestrictiveAppositionExtractor
+This was on October 14 , 1960 . <SEP> John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union .|||DisSim  RestrictiveAppositionExtractor PrepositionalInitialExtractor
+John F. Kennedy was Presidential candidate . <SEP> John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union .|||DisSim  RestrictiveAppositionExtractor PrepositionalInitialExtractor
+#
+She performed for President Reagan in 1988 's Great Performances at the White House series .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+This was at the White House series . <SEP> The White House series aired on the Public Broadcasting Service .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor PrepositionalAttachedtoVPExtractor
+She performed for Reagan in 1988 's Great Performances . <SEP> The White House series aired on the Public Broadcasting Service .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor PrepositionalAttachedtoVPExtractor
+The White House series aired on the Public Broadcasting Service .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+She performed for Reagan in 1988 's Great Performances at the White House series . <SEP> The White House series aired on the Public Broadcasting Service .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor
+This was at the White House series . <SEP> This was in 1988 's Great Performances .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor PrepositionalAttachedtoVPExtractor RestrictiveAppositionExtractor
+This was at the White House series . <SEP> She performed for Reagan in 1988 's Great Performances .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor PrepositionalAttachedtoVPExtractor RestrictiveAppositionExtractor
+She performed for Reagan in 1988 's Great Performances at the White House series .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor
+This was in 1988 's Great Performances . <SEP> The White House series aired on the Public Broadcasting Service .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveAppositionExtractor PrepositionalAttachedtoVPExtractor
+She performed for President Reagan in 1988 's Great Performances at the White House series . <SEP> The White House series aired on the Public Broadcasting Service .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+#
+This was to win the WWF European Championship ( 8:10 ) Saturn pinned Guerrero after a Diving elbow drop .|||DisSim  PurposePostExtractor
+Perry Saturn ( with Terri ) defeated Eddie Guerrero ( with Chyna ) .|||DisSim  PurposePostExtractor
+Perry Saturn ( with Terri ) defeated Eddie Guerrero ( with Chyna ) . <SEP> This was to win the WWF European Championship ( 8:10 ) Saturn pinned Guerrero after a Diving elbow drop .|||DisSim  PurposePostExtractor
+#
+She remained in the United States until 1927 .|||DisSim  SubordinationPostExtractor
+She remained in the United States until 1927 when she and her husband returned to France .|||DisSim
+She remained in the United States until 1927 . <SEP> Her husband returned to France .|||DisSim  SubordinationPostExtractor PreListNPExtractor
+She remained in the United States until 1927 . <SEP> She and her husband returned to France .|||DisSim  SubordinationPostExtractor
+She remained in the United States . <SEP> Her husband returned to France .|||DisSim  SubordinationPostExtractor PreListNPExtractor PrepositionalAttachedtoVPExtractor
+She remained in the United States . <SEP> She and her husband returned to France .|||DisSim  SubordinationPostExtractor PrepositionalAttachedtoVPExtractor
+#
+This was from the images taken by the Voyager 2 probe . <SEP> Despina was discovered in late July .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalAttachedtoVPExtractor
+Despina was discovered in late July , 1989 .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was from the images . <SEP> Despina was discovered in late July , 1989 .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+The images were taken by the Voyager 2 probe .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+The images were taken by the Voyager 2 probe . <SEP> Despina was discovered in late July .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor PrepositionalAttachedtoVPExtractor
+The images were taken by the Voyager 2 probe . <SEP> Despina was discovered in late July , 1989 .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+This was from the images . <SEP> The images were taken by the Voyager 2 probe .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+This was from the images taken by the Voyager 2 probe .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was from the images . <SEP> Despina was discovered in late July .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor PrepositionalAttachedtoVPExtractor
+This was from the images taken by the Voyager 2 probe . <SEP> Despina was discovered in late July , 1989 .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+The first Italian Grand Prix motor racing championship took place September 1921 at Brescia .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+Short stories were entitled The Ribbajack & Other Curious Yarns and Seven Strange and Ghostly Tales .|||DisSim  RestrictiveParticipialExtractor
+He also completed two collections of short stories . <SEP> Short stories were entitled The Ribbajack & Other Curious Yarns and Seven Strange and Ghostly Tales .|||DisSim  RestrictiveParticipialExtractor
+#
+An elongated object is the major axis . <SEP> At the Voyager 2 images Ophelia appears as an elongated object .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor
+An elongated object is the major axis . <SEP> This is at the Voyager 2 images .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+The major axis are pointing towards Uranus . <SEP> At the Voyager 2 images Ophelia appears as an elongated object .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor
+The major axis are pointing towards Uranus . <SEP> This is at the Voyager 2 images .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+The major axis are pointing towards Uranus . <SEP> Ophelia appears as an elongated object .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+An elongated object is the major axis . <SEP> The major axis are pointing towards Uranus .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor
+An elongated object is the major axis . <SEP> Ophelia appears as an elongated object .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+An elongated object is the major axis pointing towards Uranus . <SEP> At the Voyager 2 images Ophelia appears as an elongated object .|||DisSim  NonRestrictiveAppositionExtractor
+An elongated object is the major axis pointing towards Uranus . <SEP> This is at the Voyager 2 images .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+At the Voyager 2 images Ophelia appears as an elongated object .|||DisSim  NonRestrictiveAppositionExtractor
+This is at the Voyager 2 images . <SEP> Ophelia appears as an elongated object .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+An elongated object is the major axis pointing towards Uranus .|||DisSim  NonRestrictiveAppositionExtractor
+An elongated object is the major axis pointing towards Uranus . <SEP> Ophelia appears as an elongated object .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+#
+The British decided to eliminate him and take the land .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+Some towns on the Eyre Highway in the south-east corner of Western Australia do not follow official Western Australian time .|||DisSim  PrepositionalMiddleFinalExtractor
+This is between the South Australian border almost as far as Caiguna . <SEP> Some towns on the Eyre Highway in the south-east corner of Western Australia do not follow official Western Australian time .|||DisSim  PrepositionalMiddleFinalExtractor
+#
+Small pieces of colored and iridescent shell have been used to create mosaics and inlays . <SEP> Mosaics and inlays have been used to decorate walls , furniture and boxes .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor PrepositionalInitialExtractor
+In architectural decoration Small pieces of colored and iridescent shell have been used to create mosaics and inlays . <SEP> Mosaics and inlays have been used to decorate walls , furniture and boxes .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+This was in architectural decoration . <SEP> Mosaics and inlays have been used to decorate walls , furniture and boxes .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor PrepositionalInitialExtractor
+Small pieces of colored and iridescent shell have been used to create mosaics and inlays .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor PrepositionalInitialExtractor
+In architectural decoration Small pieces of colored and iridescent shell have been used to create mosaics and inlays .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+This was in architectural decoration . <SEP> Small pieces of colored and iridescent shell have been used to create mosaics and inlays .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor PrepositionalInitialExtractor
+#
+The other incorporated cities on the Palos Verdes Peninsula include Rolling Hills Estates .|||DisSim  PostListNPExtractor
+The other incorporated cities on the Palos Verdes Peninsula include Rancho Palos Verdes .|||DisSim  PostListNPExtractor
+The other incorporated cities on the Palos Verdes Peninsula include Rancho Palos Verdes , Rolling Hills Estates and Rolling Hills .|||DisSim
+The other incorporated cities on the Palos Verdes Peninsula include Rolling Hills .|||DisSim  PostListNPExtractor
+#
+Qwark is the famous superhero Captain . <SEP> Clank asks Ratchet to help him find Qwark , in an effort to stop Drek .|||DisSim  RestrictiveAppositionExtractor SharedNPPreParticipalExtractor
+Clank is fearing that Drek will destroy the galaxy . <SEP> This is in an effort to stop Drek .|||DisSim  SharedNPPreParticipalExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor
+Drek will destroy the galaxy . <SEP> This is in an effort to stop Drek .|||DisSim  SharedNPPreParticipalExtractor PrepositionalMiddleFinalExtractor SubordinationPostExtractor RestrictiveAppositionExtractor
+Fearing that Drek will destroy the galaxy , Clank asks Ratchet to help him find Qwark , in an effort to stop Drek .|||DisSim  RestrictiveAppositionExtractor
+Clank is fearing that Drek will destroy the galaxy . <SEP> Clank asks Ratchet to help him find Qwark , in an effort to stop Drek .|||DisSim  RestrictiveAppositionExtractor SharedNPPreParticipalExtractor
+Drek will destroy the galaxy . <SEP> Clank asks Ratchet to help him find Qwark , in an effort to stop Drek .|||DisSim  SharedNPPreParticipalExtractor SubordinationPostExtractor RestrictiveAppositionExtractor
+This is in an effort to stop Drek . <SEP> Clank asks Ratchet to help him find Qwark .|||DisSim  SharedNPPreParticipalExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor
+Qwark is the famous superhero Captain . <SEP> Clank asks Ratchet to help him find Qwark .|||DisSim  RestrictiveAppositionExtractor SharedNPPreParticipalExtractor PrepositionalMiddleFinalExtractor
+Drek will destroy the galaxy . <SEP> Clank asks Ratchet to help him find Qwark .|||DisSim  SharedNPPreParticipalExtractor PrepositionalMiddleFinalExtractor SubordinationPostExtractor RestrictiveAppositionExtractor
+Qwark is the famous superhero Captain . <SEP> Drek will destroy the galaxy .|||DisSim  SubordinationPostExtractor RestrictiveAppositionExtractor SharedNPPreParticipalExtractor
+Qwark is the famous superhero Captain . <SEP> This is in an effort to stop Drek .|||DisSim  RestrictiveAppositionExtractor SharedNPPreParticipalExtractor PrepositionalMiddleFinalExtractor
+Qwark is the famous superhero Captain . <SEP> Fearing that Drek will destroy the galaxy , Clank asks Ratchet to help him find Qwark , in an effort to stop Drek .|||DisSim  RestrictiveAppositionExtractor
+Clank is fearing that Drek will destroy the galaxy . <SEP> Clank asks Ratchet to help him find Qwark .|||DisSim  SharedNPPreParticipalExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor
+Qwark is the famous superhero Captain . <SEP> Clank is fearing that Drek will destroy the galaxy .|||DisSim  RestrictiveAppositionExtractor SharedNPPreParticipalExtractor
+Clank asks Ratchet to help him find Qwark , in an effort to stop Drek .|||DisSim  RestrictiveAppositionExtractor SharedNPPreParticipalExtractor
+#
+No existing syntactic rule can be applied
+#
+He also works towards popularizing interaction design as a mainstream discipline .|||DisSim  SharedNPPostCoordinationExtractor
+He advocates applying a user-centered design process . <SEP> He also works towards popularizing interaction design as a mainstream discipline .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor
+He advocates applying a user-centered design process in product development cycles .|||DisSim  SharedNPPostCoordinationExtractor
+He advocates applying a user-centered design process in product development cycles . <SEP> He also works towards popularizing interaction design as a mainstream discipline .|||DisSim  SharedNPPostCoordinationExtractor
+This is in product development cycles . <SEP> He advocates applying a user-centered design process .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor
+This is in product development cycles . <SEP> He also works towards popularizing interaction design as a mainstream discipline .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor
+#
+It is theoretically possible that the other editors , and the administrator , are part of a conspiracy against someone half a world away they 've never met in person .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+It is theoretically possible that the other editors , and the administrator who blocked you , are part of a conspiracy against someone half a world away they 've never met in person .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+It is theoretically possible that the other editors , and the administrator , are part of a conspiracy against someone half a world away they 've never met in person . <SEP> The other editors may have reported you .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+It is theoretically possible that the other editors , and the administrator who blocked you , are part of a conspiracy against someone half a world away they 've never met in person . <SEP> The other editors may have reported you .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+#
+No existing syntactic rule can be applied
+#
+The island chain forms part of the Hebrides , separated from the Scottish mainland and from the Inner Hebrides by the stormy waters of the Minch .|||DisSim  PostListNPExtractor
+The island chain forms part of the Hebrides , separated from the Scottish mainland and from the Inner Hebrides by the stormy waters of the Little Minch .|||DisSim  PostListNPExtractor
+The island chain forms part of the Hebrides , separated from the Scottish mainland and from the Inner Hebrides by the stormy waters of the Sea of the Hebrides .|||DisSim  PostListNPExtractor
+#
+Orton welcomed Alanna Marie Orton on July 12 , 2008 .|||DisSim  PreListNPExtractor
+His wife welcomed Alanna Marie Orton on July 12 , 2008 .|||DisSim  PreListNPExtractor
+#
+Number-name combinations were overseen by the Minor Planet Center .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor
+A branch of the IAU was the Minor Planet Center . <SEP> Number-name combinations were overseen by the Minor Planet Center .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor
+Formal minor planet designations are number-name combinations . <SEP> Number-name combinations were overseen by the Minor Planet Center .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor
+A branch of the IAU was the Minor Planet Center .|||DisSim  NonRestrictiveAppositionExtractor
+A branch of the IAU was the Minor Planet Center . <SEP> Formal minor planet designations are number-name combinations .|||DisSim  RestrictiveParticipialExtractor NonRestrictiveAppositionExtractor
+Formal minor planet designations are number-name combinations overseen by the Minor Planet Center .|||DisSim  NonRestrictiveAppositionExtractor
+A branch of the IAU was the Minor Planet Center . <SEP> Formal minor planet designations are number-name combinations overseen by the Minor Planet Center .|||DisSim  NonRestrictiveAppositionExtractor
+#
+Wind shear began to dramatically increase . <SEP> This was by early on September 30 .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+By early on September 30 , wind shear began to dramatically increase . <SEP> This was by early on September 30 .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+This was by early on September 30 . <SEP> By early on September 30 , a weakening trend began .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+By early on September 30 , a weakening trend began .|||DisSim  CoordinationExtractor
+This was by early on September 30 . <SEP> Wind shear began to dramatically increase .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+By early on September 30 , wind shear began to dramatically increase .|||DisSim  CoordinationExtractor
+Wind shear began to dramatically increase . <SEP> By early on September 30 , a weakening trend began .|||DisSim  CoordinationExtractor PrepositionalInitialExtractor
+#
+A datum ( a nugget of data ) is a copy of the datum in some backing store .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+Each entry has a datum ( a nugget of data ) .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+#
+This is as a result . <SEP> Both men and women when attending a mosque must adhere to these guidelines .|||DisSim  SubordinationPreExtractor PrepositionalInitialExtractor
+Many mosques will not enforce violations . <SEP> This is as a result .|||DisSim  SubordinationPreExtractor PrepositionalInitialExtractor
+Many mosques will not enforce violations . <SEP> As a result , both men and women when attending a mosque must adhere to these guidelines .|||DisSim  SubordinationPreExtractor
+Both men and women when attending a mosque must adhere to these guidelines .|||DisSim  SubordinationPreExtractor PrepositionalInitialExtractor
+Many mosques will not enforce violations . <SEP> Both men and women when attending a mosque must adhere to these guidelines .|||DisSim  SubordinationPreExtractor PrepositionalInitialExtractor
+As a result , both men and women when attending a mosque must adhere to these guidelines .|||DisSim  SubordinationPreExtractor
+#
+Brian Jacques was published in 1991 .|||DisSim  ParticipialMiddleExtractor
+Mariel of Redwall is a fantasy novel by Brian Jacques .|||DisSim  ParticipialMiddleExtractor
+Mariel of Redwall is a fantasy novel by Brian Jacques . <SEP> Brian Jacques was published in 1991 .|||DisSim  ParticipialMiddleExtractor
+#
+Born 10 July is 1988 . <SEP> Ryan Prosser ( born 10 July ) is a professional rugby union player for Bristol Rugby in the Guinness Premiership .|||DisSim  NonRestrictiveAppositionExtractor
+Ryan Prosser ( born 10 July ) is a professional rugby union player for Bristol Rugby in the Guinness Premiership .|||DisSim  NonRestrictiveAppositionExtractor
+#
+It consists of four reports from its working groups .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Four reports are three of them . <SEP> It consists of four reports from its working groups .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Four reports are three of them . <SEP> Like previous assessment reports , it consists of four reports from its working groups .|||DisSim  NonRestrictiveAppositionExtractor
+Four reports are three of them . <SEP> This is like previous assessment reports .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Like previous assessment reports , it consists of four reports from its working groups .|||DisSim  NonRestrictiveAppositionExtractor
+This is like previous assessment reports . <SEP> It consists of four reports from its working groups .|||DisSim  NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+#
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Their grandson Pierre Joliot , who was named after Pierre Curie , is a noted biochemist .|||DisSim  CoordinationExtractor
+Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot is a noted biochemist .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Hélène Langevin-Joliot is Their granddaughter . <SEP> Their grandson Pierre Joliot was named after Pierre Curie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot is a noted biochemist .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris .|||DisSim  CoordinationExtractor
+Hélène Langevin-Joliot is Their granddaughter . <SEP> Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot was Their grandson .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Their grandson Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor
+Their grandson Pierre Joliot is a noted biochemist . <SEP> Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Hélène Langevin-Joliot is Their granddaughter . <SEP> Their grandson Pierre Joliot is a noted biochemist .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor
+Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Their grandson Pierre Joliot was named after Pierre Curie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor
+Hélène Langevin-Joliot is Their granddaughter . <SEP> Their grandson Pierre Joliot , who was named after Pierre Curie , is a noted biochemist .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Pierre Joliot is a noted biochemist . <SEP> Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot was Their grandson .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Their grandson Pierre Joliot , who was named after Pierre Curie , is a noted biochemist .|||DisSim  CoordinationExtractor
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot is Their grandson .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot is Their grandson .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Their grandson Pierre Joliot is a noted biochemist .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor
+Pierre Joliot is Their grandson . <SEP> Their grandson Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+Their grandson Pierre Joliot is a noted biochemist . <SEP> Their grandson Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor
+Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Their grandson Pierre Joliot is a noted biochemist .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor
+Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris . <SEP> Their grandson Pierre Joliot , who was named after Pierre Curie , is a noted biochemist .|||DisSim  RestrictiveAppositionExtractor CoordinationExtractor
+Pierre Joliot is a noted biochemist . <SEP> Their grandson Pierre Joliot was named after Pierre Curie .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor CoordinationExtractor RestrictiveAppositionExtractor
+#
+This was for the remainder of Victoria 's reign .|||DisSim  CoordinationExtractor PrepositionalAttachedtoVPExtractor
+This stamp remained the standard letter stamp for the remainder of Victoria 's reign .|||DisSim  CoordinationExtractor
+This was for the remainder of Victoria 's reign . <SEP> This stamp remained the standard letter stamp .|||DisSim  CoordinationExtractor PrepositionalAttachedtoVPExtractor
+#
+The International Fight League was an American mixed martial arts ( MMA ) promotion .|||DisSim  RestrictiveParticipialExtractor
+An American mixed martial arts ( MMA ) promotion were billed as the world 's first MMA league .|||DisSim  RestrictiveParticipialExtractor
+#
+Giardia lamblia ( synonymous with Lamblia intestinalis and Giardia duodenalis ) is a flagellated protozoan parasite . <SEP> A flagellated protozoan parasite is causing giardiasis .|||DisSim  SharedNPPostParticipalExtractor SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+Giardia lamblia ( synonymous with Lamblia intestinalis and Giardia duodenalis ) is a flagellated protozoan parasite .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+A flagellated protozoan parasite reproduces in the small intestine , causing giardiasis .|||DisSim  SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+Giardia lamblia ( synonymous with Lamblia intestinalis and Giardia duodenalis ) is a flagellated protozoan parasite . <SEP> A flagellated protozoan parasite reproduces in the small intestine .|||DisSim  SharedNPPostParticipalExtractor SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+A flagellated protozoan parasite reproduces in the small intestine . <SEP> A flagellated protozoan parasite is causing giardiasis .|||DisSim  SharedNPPostCoordinationExtractor SharedNPPostParticipalExtractor RestrictiveRelativeClauseWhoWhichExtractor
+A flagellated protozoan parasite colonises . <SEP> A flagellated protozoan parasite reproduces in the small intestine , causing giardiasis .|||DisSim  SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+A flagellated protozoan parasite colonises and reproduces in the small intestine , causing giardiasis .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+Giardia lamblia ( synonymous with Lamblia intestinalis and Giardia duodenalis ) is a flagellated protozoan parasite . <SEP> A flagellated protozoan parasite colonises and reproduces in the small intestine , causing giardiasis .|||DisSim  RestrictiveRelativeClauseWhoWhichExtractor
+A flagellated protozoan parasite colonises . <SEP> A flagellated protozoan parasite reproduces in the small intestine .|||DisSim  SharedNPPostCoordinationExtractor SharedNPPostParticipalExtractor RestrictiveRelativeClauseWhoWhichExtractor
+Giardia lamblia ( synonymous with Lamblia intestinalis and Giardia duodenalis ) is a flagellated protozoan parasite . <SEP> A flagellated protozoan parasite reproduces in the small intestine , causing giardiasis .|||DisSim  SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+Giardia lamblia ( synonymous with Lamblia intestinalis and Giardia duodenalis ) is a flagellated protozoan parasite . <SEP> A flagellated protozoan parasite colonises .|||DisSim  SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+#
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War Cameron " Buck " Williams .|||DisSim  NonRestrictiveRelativeClausePrepWhichWhoExtractor
+This was aside from this . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind : World at War .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Tribulation Force .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was aside from this . <SEP> This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was aside from this . <SEP> This was among them Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Cameron was World at War . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was aside from this . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was among them Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Cameron was World at War . <SEP> This was among them Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind : World at War .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+The Movie is Left Behind : World at War . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PostListNPExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+The Movie was Left Behind II . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was among them Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Cameron was World at War . <SEP> Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> Has often worked in Christian-themed productions .|||DisSim  PrepositionalInitialExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Cameron was World at War . <SEP> Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor
+Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind : World at War .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War Cameron " Buck " Williams . <SEP> The Movie is Left Behind II .|||DisSim  PostListNPExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Cameron was World at War . <SEP> This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+The Movie was Left Behind II . <SEP> Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+The Movie is Tribulation Force . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PostListNPExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Tribulation Force .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them The Movie : Tribulation Force . <SEP> The Movie is Left Behind : World at War .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  NonRestrictiveRelativeClausePrepWhichWhoExtractor
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was among them the post-Rapture films Left Behind . <SEP> The Movie is Left Behind : World at War .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them The Movie : Tribulation Force . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was among them Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Cameron was World at War . <SEP> Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Tribulation Force .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War Cameron " Buck " Williams . <SEP> The Movie is Tribulation Force .|||DisSim  PostListNPExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind : World at War .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+The Movie was Left Behind II . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them Left Behind : Cameron " Buck " Williams . <SEP> Has often worked in Christian-themed productions .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor
+Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Tribulation Force .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was among them the post-Rapture films Left Behind . <SEP> This was among them Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War Cameron " Buck " Williams . <SEP> The Movie is Left Behind : World at War .|||DisSim  PostListNPExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Has often worked in Christian-themed productions . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Cameron was World at War . <SEP> Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Aside from this has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind : World at War .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind : World at War .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Tribulation Force .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Cameron was World at War . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor
+Has often worked in Christian-themed productions . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Tribulation Force .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+The Movie was Left Behind II . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them The Movie : Tribulation Force . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+The Movie was Left Behind II . <SEP> Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind . <SEP> He plays in the post-Rapture films Left Behind : The Movie , Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was among them the post-Rapture films Left Behind . <SEP> This was among them The Movie : Tribulation Force .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+Aside from this , Cameron has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+The Movie was Left Behind II . <SEP> This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+The Movie was Left Behind II . <SEP> Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Has often worked in Christian-themed productions . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was aside from this . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+The Movie was Left Behind II . <SEP> This was among them Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+The Movie is Left Behind II . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PostListNPExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them The Movie : Tribulation Force . <SEP> He plays in the post-Rapture films Left Behind : The Movie .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+Cameron was World at War . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+This was among them Left Behind : Cameron " Buck " Williams . <SEP> The Movie is Left Behind II : Tribulation Force , and Left Behind : World at War .|||DisSim  PostListNPExtractor PrepositionalMiddleFinalExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor PrepositionalInitialExtractor
+This was aside from this . <SEP> Has often worked in Christian-themed productions , among them the post-Rapture films Left Behind : The Movie : Tribulation Force , and Left Behind : Cameron " Buck " Williams .|||DisSim  PrepositionalInitialExtractor RestrictiveAppositionExtractor NonRestrictiveRelativeClausePrepWhichWhoExtractor NonRestrictiveAppositionExtractor
+#
+This was the area east of the mouth of the Vistula River sometimes called " Prussia proper " .|||DisSim  AdjectivalAdverbialMiddleFinalExtractor
+#
+This was to teach at the local Conservatory . <SEP> Later he was appointed artistic director of the Armenian Philarmonic Orchestra .|||DisSim  CoordinationExtractor PurposePostExtractor
+After graduation he returned to Yerevan to teach at the local Conservatory . <SEP> Later he was appointed artistic director of the Armenian Philarmonic Orchestra .|||DisSim  CoordinationExtractor
+After graduation he returned to Yerevan to teach at the local Conservatory .|||DisSim  CoordinationExtractor
+After graduation he returned to Yerevan . <SEP> Later he was appointed artistic director of the Armenian Philarmonic Orchestra .|||DisSim  CoordinationExtractor PurposePostExtractor
+After graduation he returned to Yerevan . <SEP> This was to teach at the local Conservatory .|||DisSim  CoordinationExtractor PurposePostExtractor
+#
+This was given in the Gospel of Matthew , namely - and the Gospel of Luke , specifically - .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was given in the Gospel of Matthew - and the Gospel of Luke , specifically - .|||DisSim  AdjectivalAdverbialMiddleFinalExtractor PrepositionalAttachedtoVPExtractor
+This was given in the Gospel of Matthew - and the Gospel of Luke , specifically - . <SEP> The story of Christmas is based on the biblical accounts .|||DisSim  AdjectivalAdverbialMiddleFinalExtractor PrepositionalAttachedtoVPExtractor
+This was given in the Gospel of Matthew - and the Gospel of Luke - .|||DisSim  AdjectivalAdverbialMiddleFinalExtractor PrepositionalAttachedtoVPExtractor
+This was given in the Gospel of Matthew - and the Gospel of Luke - . <SEP> The story of Christmas is based on the biblical accounts .|||DisSim  AdjectivalAdverbialMiddleFinalExtractor PrepositionalAttachedtoVPExtractor
+This was given in the Gospel of Matthew , namely - and the Gospel of Luke , specifically - . <SEP> The story of Christmas is based on the biblical accounts .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+This was with the Chichester Cathedral authorities for his heavy drinking and immoderate behaviour . <SEP> Weelkes was later to find himself .|||DisSim  PrepositionalAttachedtoVPExtractor
+Weelkes was later to find himself with the Chichester Cathedral authorities for his heavy drinking and immoderate behaviour .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was with the Chichester Cathedral authorities for his heavy drinking and immoderate behaviour .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+No existing syntactic rule can be applied
+#
+This was from the Voyager 1 space probe taken on March 5 , 1979 while orbiting around Jupiter .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was from the Voyager 1 space probe taken on March 5 , 1979 while orbiting around Jupiter . <SEP> It was discovered by Stephen P. Synnott in images .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was from the Voyager 1 space probe . <SEP> The Voyager 1 space probe was taken on March 5 , 1979 while orbiting around Jupiter .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+The Voyager 1 space probe was taken on March 5 , 1979 while orbiting around Jupiter .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+This was from the Voyager 1 space probe . <SEP> It was discovered by Stephen P. Synnott in images .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+The Voyager 1 space probe was taken on March 5 , 1979 while orbiting around Jupiter . <SEP> It was discovered by Stephen P. Synnott in images .|||DisSim  RestrictiveParticipialExtractor PrepositionalAttachedtoVPExtractor
+#
+Gomaespuma was a Spanish radio show . <SEP> Gomaespuma was hosted by Juan Luis Cano and Guillermo Fesser .|||DisSim  SharedNPPostParticipalExtractor
+Gomaespuma was hosted by Juan Luis Cano and Guillermo Fesser .|||DisSim  SharedNPPostParticipalExtractor
+#
+June 2009 , the official release date of The Resistance was announced on the band 's website .|||DisSim  PrepositionalInitialExtractor
+#
+No existing syntactic rule can be applied
+#
+The Apostolic Tradition attests the singing of Hallel psalms with Alleluia as the refrain in early Christian agape feasts .|||DisSim  ParticipialMiddleExtractor
+The Apostolic Tradition attests the singing of Hallel psalms with Alleluia as the refrain in early Christian agape feasts . <SEP> The Apostolic Tradition is attributed to the theologian Hippolytus .|||DisSim  ParticipialMiddleExtractor
+This is as the refrain in early Christian agape feasts . <SEP> The Apostolic Tradition attests the singing of Hallel psalms .|||DisSim  ParticipialMiddleExtractor PrepositionalAttachedtoVPExtractor
+The Apostolic Tradition attests the singing of Hallel psalms . <SEP> The Apostolic Tradition is attributed to the theologian Hippolytus .|||DisSim  ParticipialMiddleExtractor PrepositionalAttachedtoVPExtractor
+The Apostolic Tradition attests the singing of Hallel psalms with Alleluia . <SEP> The Apostolic Tradition is attributed to the theologian Hippolytus .|||DisSim  ParticipialMiddleExtractor PrepositionalAttachedtoVPExtractor
+This is as the refrain in early Christian agape feasts . <SEP> The Apostolic Tradition attests the singing of Hallel psalms with Alleluia .|||DisSim  ParticipialMiddleExtractor PrepositionalAttachedtoVPExtractor
+This is as the refrain in early Christian agape feasts . <SEP> The Apostolic Tradition is attributed to the theologian Hippolytus .|||DisSim  ParticipialMiddleExtractor PrepositionalAttachedtoVPExtractor
+#
+In return , Rollo swore fealty to Charles . <SEP> In return , Rollo undertook to defend the northern region of France .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor
+Rollo swore fealty to Charles . <SEP> This was against the incursions of other Viking groups .|||DisSim  PrepositionalAttachedtoVPExtractor SharedNPPostCoordinationExtractor PrepositionalInitialExtractor
+Rollo swore fealty to Charles . <SEP> In return , Rollo undertook to defend the northern region of France .|||DisSim  PrepositionalAttachedtoVPExtractor SharedNPPostCoordinationExtractor PrepositionalInitialExtractor
+In return , Rollo undertook to defend the northern region of France against the incursions of other Viking groups .|||DisSim  SharedNPPostCoordinationExtractor
+In return , Rollo swore fealty to Charles . <SEP> Rollo undertook to defend the northern region of France .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalInitialExtractor PrepositionalAttachedtoVPExtractor
+Rollo swore fealty to Charles . <SEP> In return , Rollo converted to Christianity .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalInitialExtractor
+In return , Rollo swore fealty to Charles . <SEP> This was against the incursions of other Viking groups .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor
+Rollo swore fealty to Charles . <SEP> Rollo undertook to defend the northern region of France .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor PrepositionalInitialExtractor
+In return , Rollo swore fealty to Charles . <SEP> In return , Rollo undertook to defend the northern region of France against the incursions of other Viking groups .|||DisSim  SharedNPPostCoordinationExtractor
+This was against the incursions of other Viking groups . <SEP> Rollo undertook to defend the northern region of France .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor PrepositionalInitialExtractor
+This was against the incursions of other Viking groups . <SEP> In return , Rollo undertook to defend the northern region of France .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalAttachedtoVPExtractor
+Rollo swore fealty to Charles . <SEP> In return , Rollo undertook to defend the northern region of France against the incursions of other Viking groups .|||DisSim  SharedNPPostCoordinationExtractor PrepositionalInitialExtractor
+#
+No existing syntactic rule can be applied
+#
+This was by 10-year-old child actress . <SEP> Disney received a full-size Oscar statuette and seven miniature ones , presented to him Shirley Temple .|||DisSim  PrepositionalAttachedtoVPExtractor
+Disney received a full-size Oscar statuette and seven miniature ones , presented to him Shirley Temple .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+No existing syntactic rule can be applied
+#
+No existing syntactic rule can be applied
+#
+No existing syntactic rule can be applied
+#
+220 ( 1,048,576 ) bytes is referenced as 1 MB ( megabyte ) instead of 1 MiB .|||DisSim  SubordinationPostExtractor
+This leads to consumer confusion . <SEP> 220 ( 1,048,576 ) bytes is referenced as 1 MB ( megabyte ) instead of 1 MiB .|||DisSim  SubordinationPostExtractor
+#
+The incident has been the subject of numerous reports .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was as to ethics in scholarship .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was as to ethics in scholarship . <SEP> The incident has been the subject of numerous reports .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+The animal may be more docile . <SEP> They may put on weight more quickly .|||DisSim  SubordinationPostExtractor SharedNPPostCoordinationExtractor
+They are castrated so that the animal may be more docile . <SEP> They may put on weight more quickly .|||DisSim  SharedNPPostCoordinationExtractor
+They are castrated so that the animal may be more docile .|||DisSim  SharedNPPostCoordinationExtractor
+#
+Seventh sons have strong " knacks " ( specific magical abilities ) .|||DisSim  CoordinationExtractor
+Seventh sons of seventh sons are both extraordinarily rare and powerful .|||DisSim  CoordinationExtractor
+Seventh sons have strong " knacks " ( specific magical abilities ) . <SEP> Seventh sons of seventh sons are both extraordinarily rare and powerful .|||DisSim  CoordinationExtractor
+#
+Time was 32 second scan time . <SEP> Time was 7 MB memory utilization .|||DisSim  PostListNPExtractor NonRestrictiveAppositionExtractor
+Time was 7 MB memory utilization . <SEP> Benchmarking conducted by PassMark Software highlights the 2009 version 's 52 second install time .|||DisSim  PostListNPExtractor NonRestrictiveAppositionExtractor
+Time was 32 second scan time . <SEP> Benchmarking conducted by PassMark Software highlights the 2009 version 's 52 second install time .|||DisSim  PostListNPExtractor NonRestrictiveAppositionExtractor
+Benchmarking conducted by PassMark Software highlights the 2009 version 's 52 second install time .|||DisSim  NonRestrictiveAppositionExtractor
+Time was 32 second scan time , and 7 MB memory utilization .|||DisSim  NonRestrictiveAppositionExtractor
+Time was 32 second scan time , and 7 MB memory utilization . <SEP> Benchmarking conducted by PassMark Software highlights the 2009 version 's 52 second install time .|||DisSim  NonRestrictiveAppositionExtractor
+#
+No existing syntactic rule can be applied
+#
+This was what the sensations of itch and pain have not been considered to be independent of each other until recently .|||DisSim  SubordinationPostAttributionExtractor
+This was what the sensations of itch and pain have not been considered to be independent of each other until recently . <SEP> Where it was found that itch has several features in common with pain , but exhibits notable differences .|||DisSim  SubordinationPostAttributionExtractor
+This was what the sensations of itch and pain have not been considered to be independent of each other until recently . <SEP> That itch has several features in common with pain .|||DisSim  SharedNPPostCoordinationExtractor SubordinationPreExtractor SubordinationPostAttributionExtractor
+Where it was found that itch has several features in common with pain , but exhibits notable differences .|||DisSim  SubordinationPostAttributionExtractor
+This was what the sensations of itch and pain have not been considered to be independent of each other until recently . <SEP> That itch exhibits notable differences .|||DisSim  SharedNPPostCoordinationExtractor SubordinationPreExtractor SubordinationPostAttributionExtractor
+This was what the sensations of itch and pain have not been considered to be independent of each other until recently . <SEP> That itch has several features in common with pain , but exhibits notable differences .|||DisSim  SubordinationPreExtractor SubordinationPostAttributionExtractor
+#
+Sticky because of the presence of glycoprotein-rich mucous adhere to it . <SEP> The presence of glycoprotein-rich mucous both helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+The tongue is sticky because of the presence of glycoprotein-rich mucous which adhere to it . <SEP> The presence of glycoprotein-rich mucous both helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor
+Sticky because of the presence of glycoprotein-rich mucous adhere to it . <SEP> The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+The tongue is sticky because of the presence of glycoprotein-rich mucous . <SEP> The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+The tongue is sticky because of the presence of glycoprotein-rich mucous . <SEP> The presence of glycoprotein-rich mucous both helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor RestrictiveRelativeClauseWhoWhichExtractor
+The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout . <SEP> The presence of glycoprotein-rich mucous both helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor
+The tongue is sticky because of the presence of glycoprotein-rich mucous which adhere to it . <SEP> The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor SharedNPPostCoordinationExtractor
+The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout and helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+Sticky because of the presence of glycoprotein-rich mucous adhere to it . <SEP> The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout and helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveRelativeClauseWhoWhichExtractor
+The tongue is sticky because of the presence of glycoprotein-rich mucous which adhere to it . <SEP> The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout and helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor
+The tongue is sticky because of the presence of glycoprotein-rich mucous . <SEP> The presence of glycoprotein-rich mucous both lubricates movement in and out of the snout and helps to catch ants and termites .|||DisSim  NonRestrictiveRelativeClauseWhoWhichExtractor RestrictiveRelativeClauseWhoWhichExtractor
+#
+No existing syntactic rule can be applied
+#
+Alf Ramsey is statues of Sir . <SEP> Bobby Robson is Alf Ramsey .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor
+Bobby Robson is both former Ipswich Town and England managers . <SEP> There are Bobby Robson outside the ground .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Alf Ramsey is statues of Sir . <SEP> Bobby Robson is both former Ipswich Town and England managers .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+There are Alf Ramsey and Sir Bobby Robson , both former Ipswich Town and England managers , outside the ground .|||DisSim  RestrictiveAppositionExtractor
+Alf Ramsey is statues of Sir . <SEP> There are Bobby Robson outside the ground .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Bobby Robson is Alf Ramsey . <SEP> There are Bobby Robson , both former Ipswich Town and England managers , outside the ground .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor
+Bobby Robson is Alf Ramsey and Sir . <SEP> There are Bobby Robson outside the ground .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Bobby Robson is Alf Ramsey . <SEP> Bobby Robson is both former Ipswich Town and England managers .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Bobby Robson is both former Ipswich Town and England managers .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Bobby Robson is Alf Ramsey . <SEP> There are Bobby Robson outside the ground .|||DisSim  PostListNPExtractor RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Alf Ramsey is statues of Sir . <SEP> There are Bobby Robson , both former Ipswich Town and England managers , outside the ground .|||DisSim  RestrictiveAppositionExtractor
+There are Bobby Robson , both former Ipswich Town and England managers , outside the ground .|||DisSim  RestrictiveAppositionExtractor
+Bobby Robson is Alf Ramsey and Sir . <SEP> There are Bobby Robson , both former Ipswich Town and England managers , outside the ground .|||DisSim  RestrictiveAppositionExtractor
+Bobby Robson is Alf Ramsey and Sir . <SEP> Bobby Robson is both former Ipswich Town and England managers .|||DisSim  RestrictiveAppositionExtractor NonRestrictiveAppositionExtractor
+Alf Ramsey is statues of Sir . <SEP> There are Alf Ramsey and Sir Bobby Robson , both former Ipswich Town and England managers , outside the ground .|||DisSim  RestrictiveAppositionExtractor
+#
+No existing syntactic rule can be applied
+#
+This was for those at the stadium . <SEP> Volunteers provided children 's toys .|||DisSim  PostListNPExtractor PrepositionalAttachedtoVPExtractor
+Volunteers provided food , blankets , water , children 's toys , massages , and a live rock band performance .|||DisSim  PrepositionalAttachedtoVPExtractor
+This was for those at the stadium . <SEP> Volunteers provided a live rock band performance .|||DisSim  PostListNPExtractor PrepositionalAttachedtoVPExtractor
+#
+Vouvray-sur-Huisne is a commune in the Sarthe department in the region of Pays-de-la-Loire in northwestern France .|||DisSim
+#
+There are no strong land use controls . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  CoordinationExtractor SubordinationPreExtractor
+If there are no strong land use controls , buildings are built along a bypass , converting it into an ordinary town road . <SEP> It was intended to avoid the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor
+Controls no strong land use . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+Buildings are built along a bypass , converting it into an ordinary town road . <SEP> It was intended to avoid the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+Buildings are built along a bypass , converting it into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  CoordinationExtractor SubordinationPreExtractor
+This was into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  CoordinationExtractor PrepositionalAttachedtoVPExtractor SharedNPPostParticipalExtractor SubordinationPreExtractor
+There are no strong land use controls . <SEP> Buildings are built along a bypass , converting it into an ordinary town road .|||DisSim  CoordinationExtractor SubordinationPreExtractor
+There are no strong land use controls . <SEP> The bypass may eventually become as congested as the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+If there are no strong land use controls , buildings are built along a bypass , converting it into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor
+If there are no strong land use controls , buildings are built along a bypass , converting it into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  CoordinationExtractor
+Controls no strong land use . <SEP> Buildings are built along a bypass , converting it into an ordinary town road .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+There are no strong land use . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+Buildings were converting it into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SharedNPPostParticipalExtractor SubordinationPreExtractor
+There are no strong land use . <SEP> The bypass may eventually become as congested as the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+If there are no strong land use controls , buildings are built along a bypass , converting it into an ordinary town road .|||DisSim  CoordinationExtractor
+Buildings are built along a bypass , converting it into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+Buildings are built along a bypass . <SEP> The bypass may eventually become as congested as the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SharedNPPostParticipalExtractor SubordinationPreExtractor
+There are no strong land use . <SEP> Buildings are built along a bypass , converting it into an ordinary town road .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SubordinationPreExtractor
+This was into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor PrepositionalAttachedtoVPExtractor SharedNPPostParticipalExtractor SubordinationPreExtractor
+Buildings were converting it into an ordinary town road . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  SharedNPPostParticipalExtractor CoordinationExtractor SubordinationPreExtractor
+Buildings were converting it into an ordinary town road . <SEP> It was intended to avoid the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor SharedNPPostParticipalExtractor SubordinationPreExtractor
+The bypass may eventually become as congested as the local streets . <SEP> It was intended to avoid the local streets .|||DisSim  RestrictiveRelativeClauseWithoutRelativePronounExtractor CoordinationExtractor
+Buildings are built along a bypass . <SEP> The bypass may eventually become as congested as the local streets it was intended to avoid .|||DisSim  SharedNPPostParticipalExtractor CoordinationExtractor SubordinationPreExtractor
+#
+It is also a starting point for people . <SEP> People are wanting to explore Cooktown , Cape York Peninsula , and the Atherton Tableland .|||DisSim  RestrictiveParticipialExtractor
+It is also a starting point for people . <SEP> People are wanting to explore the Atherton Tableland .|||DisSim  PostListNPExtractor RestrictiveParticipialExtractor
+People are wanting to explore Cooktown , Cape York Peninsula , and the Atherton Tableland .|||DisSim  RestrictiveParticipialExtractor
+It is also a starting point for people . <SEP> People are wanting to explore Cooktown .|||DisSim  PostListNPExtractor RestrictiveParticipialExtractor
+It is also a starting point for people . <SEP> People are wanting to explore Cape York Peninsula .|||DisSim  PostListNPExtractor RestrictiveParticipialExtractor
+#
+No existing syntactic rule can be applied
+#
+This was in any way whatsoever . <SEP> None of the authors , contributors , sponsors , administrators , vandals , or anyone else connected with Wikipedia can be responsible for your use of the information contained in or linked from these web pages .|||DisSim  PrepositionalMiddleFinalExtractor
+None of the authors , contributors , sponsors , administrators , vandals , or anyone else connected with Wikipedia can be responsible for your use of the information contained in or linked from these web pages .|||DisSim  PrepositionalMiddleFinalExtractor
+#
+This was for George , Elector of Hanover . <SEP> George Frideric Handel also served as Kapellmeister ( who eventually became George I of Great Britain ) .|||DisSim  PrepositionalAttachedtoVPExtractor
+George Frideric Handel also served as Kapellmeister ( who eventually became George I of Great Britain ) .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+Their eyes are quite small .|||DisSim  CoordinationExtractor
+Their eyes are quite small . <SEP> Their visual acuity is poor .|||DisSim  CoordinationExtractor
+Their visual acuity is poor .|||DisSim  CoordinationExtractor
+#
+They are rivaled as biological materials in toughness only .|||DisSim  PrepositionalAttachedtoVPExtractor
+#
+No existing syntactic rule can be applied
+#
+National Rail services were the Docklands Light Railway . <SEP> Tickets can be retailed for National Rail services and on Oyster card .|||DisSim  NonRestrictiveAppositionExtractor
+National Rail services were the Docklands Light Railway .|||DisSim  NonRestrictiveAppositionExtractor
+Tickets can be retailed for National Rail services and on Oyster card .|||DisSim  NonRestrictiveAppositionExtractor
+#
+He produced and published himself , whilst his much larger woodcuts were mostly commissioned work .|||DisSim  SubordinationPostExtractor
+#
+The historical method comprises the techniques and guidelines by which historians use other evidence to research and then to write history .|||DisSim  PostListNPExtractor
+The historical method comprises the techniques and guidelines by which historians use primary sources to research and then to write history .|||DisSim  PostListNPExtractor
+#
+The sheer weight of the continental icecap is believed to contribute to the high oxygen concentration . <SEP> The continental icecap was sitting on top of Lake Vostok .|||DisSim  RestrictiveParticipialExtractor
+The sheer weight of the continental icecap is believed to contribute to the high oxygen concentration .|||DisSim  RestrictiveParticipialExtractor
+#
+No existing syntactic rule can be applied
+#
+No existing syntactic rule can be applied
+#
+Mifepristone is a synthetic steroid compound .|||DisSim  RestrictiveParticipialExtractor
+A synthetic steroid compound was used as a pharmaceutical .|||DisSim  RestrictiveParticipialExtractor
+#

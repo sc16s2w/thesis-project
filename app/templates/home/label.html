@@ -1,0 +1,191 @@
+ <link rel="stylesheet" href="{{ url_for('static',filename='/css/table.css') }}">
+{# <link rel="stylesheet" href="{{ url_for('static',filename='/css/test.css') }}">#}
+{% extends "home/index1.html" %}
+
+{% block content %}
+    <style>
+    .responstable {
+  margin: 1em 0;
+  width: 100%;
+  overflow: hidden;
+  background: #FFF;
+  color: #024457;
+  border-radius: 10px;
+  border: 1px solid #167F92;
+}
+.responstable tr {
+  border: 1px solid #D9E4E6;
+}
+.responstable tr:nth-child(odd) {
+  background-color: #EAF3F3;
+}
+.responstable th {
+  display: none;
+  border: 1px solid #FFF;
+  background-color: #167F92;
+  color: #FFF;
+  padding: 1em;
+}
+.responstable th:first-child {
+  display: table-cell;
+  text-align: center;
+}
+.responstable th:nth-child(2) {
+  display: table-cell;
+}
+.responstable th:nth-child(2) span {
+  display: none;
+}
+.responstable th:nth-child(2):after {
+  content: attr(data-th);
+}
+@media (min-width: 480px) {
+  .responstable th:nth-child(2) span {
+    display: block;
+  }
+  .responstable th:nth-child(2):after {
+    display: none;
+  }
+}
+.responstable td {
+  display: block;
+  word-wrap: break-word;
+  max-width: 7em;
+}
+.responstable td:first-child {
+  display: table-cell;
+  text-align: center;
+  border-right: 1px solid #D9E4E6;
+}
+@media (min-width: 480px) {
+  .responstable td {
+    border: 1px solid #D9E4E6;
+  }
+}
+.responstable th, .responstable td {
+  text-align: left;
+  margin: 0.5em 1em;
+}
+@media (min-width: 480px) {
+  .responstable th, .responstable td {
+    display: table-cell;
+    padding: 1em;
+  }
+}
+
+
+    </style>
+
+    <script>
+        function rm01(){
+            CKEDITOR.instances.input_lexical.setData("");
+            CKEDITOR.instances.input_syntactic.setData("");
+        }
+    </script>
+    <div class="col-md-6 col-md-offset-1">
+    <table class = "hh" style = "width: 900px; margin-top: -50px; margin-bottom: 20px">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Sentence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><font size="3"><span style="font-family:Times New Roman;"><strong>Complex Sentence</strong> </span></font></td>
+        <td><font size="3" ><span style="font-family:Times New Roman;">{{data_dict[0]}}</span></font></td>
+    </tr>
+  <tr>
+      <td><strong><font size="3"><span style="font-family:Times New Roman;">Simplified Sentence</span></font></strong></td>
+      <td><font size="3"><span style="font-family:Times New Roman;">{{ data_dict[1] }}</span></font></td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+    <div class ="row">
+    <table class="responstable">
+  <tr>
+    <th data-th="Driver details"><span>Changed words</span></th>
+    <th>Relevance rank 1</th>
+    <th>Relevance rank 2</th>
+    <th>Relevance rank 3</th>
+      <th>Relevance rank 4</th>
+       <th>Relevance rank 5</th>
+       <th>Relevance rank 6</th>
+  </tr>
+  <tr>
+       {% for key,value in change.items() %}
+    <td>{{ key }}</td>
+            <td><strong>{{ value[0] }}</strong></td>
+           {% for i in range(1,value|length ) %}
+               <td>{{ value[i] }}</td>
+                {% endfor %}
+  </tr>
+ {% endfor %}
+</table>
+    </div>
+   <div class="row">
+      <div class = "col-md-6">
+        <h1 align="center" style="font-size: 350%;">Word-level Changes</h1>
+      <h2 align="center" style="font-size: 250%;">Automated generate matches for the word-pair</h2>
+      <div>
+      <div style="position: center">
+       <form method="post" action="/label_lexical">
+            {% for rule in lexical_input %}
+                <input type="checkbox" name='lexicalrule' style="font-weight:bold" value='{{ rule  }}' ><span style="font-size: 20px; font-style: oblique;font-weight: 800; font-family:Times New Roman;"> &nbsp&nbsp{{rule}}</span><br>
+             {% endfor %}
+    </div>
+      </div>
+
+       <div class="row" style="margin-left:-100px;">
+             <h1 align="center" style="font-size:250%;">Please enter additional word-level changes you have found</h1>
+            </div>
+    <div class="input_control">
+        <div class="row">
+             <div style="height:100px; margin-left:-100px">
+
+         {{ form.input_lexical() }}
+            </div>
+        </div>
+    </div>
+ {{ ckeditor.load() }}
+        {{ ckeditor.config(name='input_lexical') }}
+      </div>
+    <div class = "col-md-6" >
+        <h1 align="center" style="font-size: 350%; ">Grammar-level Changes</h1>
+     <h2 align="center" style="font-size: 250%;">Automated generate matches for the phrase-pair</h2>
+        <div style="position: center">
+            {% for syntacticrule in syntacticrules %}
+{#                {{ rule.ComplexWord+" "+rule.SimpleWord  }}#}
+                <input type="checkbox" name='syntacticrule' style="font-weight:bold" value='{{ syntacticrule }}' ><span style="font-size: 20px; font-style: oblique;font-weight: 800; font-family:Times New Roman;">&nbsp &nbsp {{ syntacticrule }}</span><br>
+{#            <input type="checkbox" name="hobby" value="running" >{{rule.SimpleWord}}<br>#}
+             {% endfor %}
+    </div>
+    <div style="position:center; margin-left:140px">{{ pagination.links }}</div>
+        <div class="row" style="margin-left:-100px">
+             <h1 align="center" style="font-size:250%;">Please enter additional grammar-level you have found</h1>
+            </div>
+    <div class="input_control">
+        <div class="row">
+            <div style="height:100px; margin-left:-100px">
+
+{#        <input type="text" class="form_input" name="input_syntactic" placeholder="Enter the syntactic rules" style="height:70px;" >#}
+               {{ form.input_syntactic() }}
+            </div>
+        </div>
+    </div>
+    {{ ckeditor.load() }}
+        {{ ckeditor.config(name='input_syntactic') }}
+    </div>
+   </div>
+    <div class="row" style="position: center; margin-top:70px">
+    <div class="col-md-9 col-md-offset-1">
+    <div class="row">
+    <div class="col-md-offset-4 col-md-5" style="margin-top:-10px">
+        <button id="btnSubmits" type="submit" onclick="rm01()">Move to next anotation</button>
+    </div>
+    </div>
+    </form>
+    </div>
+    </div>
+{% endblock %}

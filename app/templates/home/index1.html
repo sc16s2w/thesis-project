@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN">
+<head>
+<title>Understand the knowns and the unkonwns of the text simplifier</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="{{ url_for('static', filename='base/images/logo.png') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='base/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='base/css/bootstrap-movie.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='base/css/animate.css') }}">
+<link href="../../static/css/screen.css" type="text/css" rel="stylesheet" media="screen,projection" />
+<link rel="stylesheet" media="print" type="text/css" href="../../static/css/print.css" />
+    <script type="text/javascript" src="../../static/ckeditor/ckeditor.js"></script>
+    <style>
+        .navbar-brand>img {
+            display: inline;
+        }
+        .form-group{
+            overflow: hidden;
+        }
+    </style>
+    <style>
+        .media{
+            padding:3px;
+            border:1px solid #ccc
+        }
+
+    </style>
+</head>
+<body>
+<div id="layout">
+  <div id="header">
+    <h1 id="logo" style="font-size: 350%;"><a href="#">Understand the knowns and the unknowns of the text simplifier</a></h1>
+    <hr class="noscreen" />
+    <p class="noscreen noprint"> <em>Jump to: <a href="#obsah">content</a>, <a href="#nav">navigation</a>.</em> </p>
+  </div>
+  <hr class="noscreen" />
+  <div id="nav" class="box">
+    <ul class="nav navbar-nav navbar-right" style="background-color: black;">
+                <li>
+                    <a class="curlink" href="{{ url_for("home.index") }}" style="background-color:#5e6575"><span class="glyphicon glyphicon-film"></span>&nbsp;Introduction</a>
+                </li>
+{#                 <li>#}
+{#                    <a class="curlink" href="{{ url_for("home.training") }}" style="background-color:#5e6575"><span class="glyphicon glyphicon-user"></span>&nbsp;Training</a>#}
+{#                </li>#}
+                <li>
+                    <a class="curlink" href="{{ url_for("home.search") }}" style="background-color:#5e6575"><span class="glyphicon glyphicon-user"></span>&nbsp;Label</a>
+                </li>
+                <li>
+                    <a class="curlink" href="{{ url_for("home.login") }}" style="background-color:#5e6575"><span class="glyphicon glyphicon-log-in"></span>&nbsp;Login</a>
+                </li>
+                <li>
+                    <a class="curlink" href="{{ url_for("home.register") }}" style="background-color:#5e6575"><span class="glyphicon glyphicon-plus"></span>&nbsp;Register</a>
+                </li>
+                <li>
+                    <a class="curlink" href="{{ url_for("home.logout") }}" style="background-color:#5e6575"><span class="glyphicon glyphicon-log-out"></span>&nbsp;Logout</a>
+                </li>
+            </ul>
+    <hr class="noscreen" />
+  </div>
+  <div id="container" class="box">
+    <div id="intro">
+      <div id="intro-in">
+        <h2 style="font-size: 300%;">Welcome to the label site</h2>
+        <p class="intro" style="font-size: 170%;">In this webpage, you are going to find the applicable rules to describe how this complex sentence becomes a simple sentence. The first table shows a pair of sentences, the first line is the complex sentence, and the second line is the simplified sentence.  The second table gives information about changed words(exist in the simple sentence but not in the complex sentence) and six words in the complex sentence related to each changed word.  Then, there are two tasks for you to do: a world-level change one and a grammar-level change one.<br>
+For the word-level task, you are going to select a pair of words(The first word is one of the six relevant rank words and the second word is the changed word). This pair of words can indicate how the sentence is simplified. For example, one complex word is replaced by a simple word) or one is the pronoun of the other. In addition,  there are some automated generate choices provided. if these choices are matched with the change in the sentence, you can select them. You also can add some additional word pairs in the input box. (the input format is the same as the automated generate choice)<br>
+For the grammar level task, you are going to select a pair of phrases(The first phrase contains one of the six relevant rank words, and [part of speech tagger] is the same as the syntactic structure in the complex sentence, and another phrase contains the changed words, and [part of speech tageers] is the same as the structure in the simplified sentence ). The pair of phrases can indicate how the sentence is simplified. Compared with the first task, this task you are going to focus more on the syntactic part. There are some automated generate choices provided.  if these choices are matched with the change in the sentence,
+            you can select them. You also can add some additional phrases pair in the input box(the input format is the same as the automated generate choice) </p>
+      </div>
+    </div>
+      <div class="container" style="margin-top:76px">
+          {% block content %}
+            {% endblock %}
+
+      </div>
+	<!-- <div class="inner_copyright">Collect from <a href="http://www.moobnn.com/" target="_blank" title="模板在线">模板在线</a> <a href="http://guantaow.taobao.com" target="_blank">厚朴网络 淘宝店</a></div>
+    <div id="obsah" class="content box">
+      <div class="in">
+        <div class="shadow"> <img src="img/image.jpg" alt="" class="thumb" /> </div>
+        <ul class="columns">
+          <li class="col1">
+            <h3>Lorem ipsum</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="more">Find out more</a> </p>
+          </li>
+          <li class="col2">
+            <h3>Lorem ipsum</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="more">Find out more</a> </p>
+          </li>
+          <li class="col3">
+            <h3>Lorem ipsum</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="more">Find out more</a> </p>
+          </li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div> -->
+  <div id="footer" class="shadow" style="margin-top:40px">
+    <div class="f-left">Copyright &copy; 2022 <a href="#">Siwei</a></div>
+    <div class="f-right">Designed by <a href="/" title="Siwei" target="_blank">Siwei</a> <a href="#" target="_blank"></a> | More Information: <a href="#" target="_blank" title="模板在线"></a> <a href="#" target="_blank">Siwei</a></div>
+  </div>
+</div>
+</div>
+</body>
+<script src="{{ url_for('static',filename='base/js/jquery.min.js') }}"></script>
+<script src="{{ url_for('static',filename='base/js/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static',filename='base/js/jquery.singlePageNav.min.js') }}"></script>
+<script src="{{ url_for('static',filename='base/js/wow.min.js') }}"></script>
+<script src="{{ url_for('static',filename='lazyload/jquery.lazyload.min.js') }}"></script>
+<script src="//cdn.bootcss.com/holder/2.9.4/holder.min.js"></script>
+<script>
+    $(function() {
+        new WOW().init();
+    })
+
+</script>
+<script>
+    $(document).ready(function() {
+        $("img.lazy").lazyload({
+            effect: "fadeIn"
+        });
+    });
+
+</script>
+</html>

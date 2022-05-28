@@ -1,0 +1,124 @@
+ <link rel="stylesheet" href="{{ url_for('static',filename='/css/table.css') }}">
+{% extends "home/index1.html" %}
+
+{% block content %}
+    <div class="col-md-6 col-md-offset-1">
+    <table style = "width: 900px; margin-top: -50px; margin-bottom: 20px">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Sentence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><font size="3"><span style="font-family:Times New Roman;"><strong>Complex</strong></span></font></td>
+        <td><font size="3"><span style="font-family:Times New Roman;">{{data_dict[0]}}</span></font></td>
+    </tr>
+  <tr>
+      <td><font size="3"><span style="font-family:Times New Roman;"><strong>Simple</strong></span></font></td>
+      <td><font size="3"><span style="font-family:Times New Roman;">{{ data_dict[1] }}</span></font></td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+    <div class ="row" style="height: 100px">
+     <div id="saliency1">
+        <iframe align="center" width="100%" height="100" src="{{url_build}}" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+   </div>
+    </div>
+   <div class="row" style="margin-top: 200px; ">
+      <div class = "col-md-6">
+        <h1 align="center" style="font-size: 350%;">Lexical Rules</h1>
+        <div style="position: center">
+          <form method="post" action="label_lexical" class="navbar-form navbar-left" role="search" style="width:100%">
+              <div class="form-group input-group" style="width:100%">
+              <input id="ComplexWord" name="ComplexWord" type="text" class="form-control" placeholder="Please search the words" style="height: 38px">
+                <span class="input-group-btn">
+                    <a class="btn btn-default" href="#"><span class="glyphicon glyphicon-search"></span>&nbsp;
+                        <span><input id="search" name="search" type="submit" value="Search"></span>
+                    </a>
+                </span>
+              </div>
+    </form>
+        </div>
+      <div>
+      <div style="position: center">
+    <form method="post" action="/label_search" >
+{#                {{ rule.ComplexWord+" "+rule.SimpleWord  }}#}
+                <input type="checkbox" name="rule" style="font-weight:bold" value='extremely -> very' checked><span style="font-size: 20px; font-style: oblique;font-weight: 800; font-family:Times New Roman;">attended -> went</span><br>
+        <input type="checkbox" name="rule" style="font-weight:bold" value='comprehend  -> understand' checked><span style="font-size: 20px; font-style: oblique;font-weight: 800; font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif">graduated -> got</span><br>
+
+{#            <input type="checkbox" name="hobby" value="running" >{{rule.SimpleWord}}<br>#}
+    <div style="position:relative;left:130px; margin-top:20px">
+           <button type="submit" style="width:250px" >Submit</button>
+    </div>
+    </form>
+    </div>
+      </div>
+   <form method="post" action="/submit_lexical">
+    <div class="input_control" style="margin-top: 100px">
+        <div class="row">
+            <div class="col-md-10" style="margin-left:-40px">
+        <input type="text" class="form_input" name="input_lexical" placeholder="Enter the lexical rules" style="height:70px;">
+            </div>
+            <div class="col-md-2" style="margin-top:10px">
+        <button type="submit">Submit</button>
+            </div>
+        </div>
+    </div>
+   </form>
+      </div>
+    <div class = "col-md-6" >
+        <h1 align="center" style="font-size: 350%; ">Syntactic Rules</h1>
+        <div style="position: center">
+        <form method="post" action="/label_syntactic" >
+            {% for syntacticrule in syntacticrules %}
+{#                {{ rule.ComplexWord+" "+rule.SimpleWord  }}#}
+                 <input type="checkbox" name="rule" style="font-weight:bold" value='{{ syntacticrule }}' checked><span style="font-size: 20px; font-style: oblique;font-weight: 800; font-family:Times New Roman;" >&nbsp;&nbsp;Graham attended Wheaton College from 1939 to 1943. He graduated with a BA in anthropology.</span><br> <span style="color:#3f729b; font-size: 20px; font-style: oblique;font-weight: 800; font-family:Times New Roman;">NonRestrictiveRelativeClauseWhereExtractor</span><br>
+{#            <input type="checkbox" name="hobby" value="running" >{{rule.SimpleWord}}<br>#}
+             {% endfor %}
+         <div style="position:relative;left:170px; margin-down:-20px">
+            <button type="submit">Submit</button>
+         </div>
+    </form>
+    </div>
+    <form method="post" action="/submit_syntactic">
+    <div class="input_control">
+        <div class="row">
+            <div class="col-md-11" style="height:100px">
+{#        <input type="text" class="form_input" name="input_syntactic" placeholder="Enter the syntactic rules" style="height:70px;" >#}
+                {{ ckeditor.create() }}
+
+            </div>
+            <div class= "col-md-1" style="margin-top:10px">
+          <button type="submit">Submit</button>
+            </div>
+        </div>
+    </div>
+   </form>
+    {{ ckeditor.load() }}
+        {{ ckeditor.config() }}
+    </div>
+   </div>
+    <div class="row" style="position: center; margin-top:200px">
+    <div class="col-md-9 col-md-offset-1">
+    <form method="post" action="/dropdown_menu">
+    <div class="row">
+    <div class="col-md-9"  >
+        <select class="form-control" name="manufacturer" style="height:50px">
+            <option></option>
+            <option selected="selected">Choose the next sentence you would like to annotate</option>
+            {% for c in menus %}
+                <option value={{c}}>{{c}}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="col-md-3" style="margin-top:-10px">
+        <button type="submit">Move to the real label part</button>
+    </div>
+    </div>
+    </form>
+    </div>
+    </div>
+{% endblock %}

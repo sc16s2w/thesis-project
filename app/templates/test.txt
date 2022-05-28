@@ -1,0 +1,100 @@
+jjpre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made a significant contribution [PP/NP,1]  simple syntactic structure  made an important contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [PP/NP,1] comple syntactic stucture  made an important contribution [PP/NP,1]  simple syntactic structure  made a significant contribution [PP/NP,1]  ispre True ispost False
+pre  word made post [SBAR/VP,1] comple syntactic stucture  clarify [SBAR/VP,1] [VP/VP,2]  simple syntactic structure  made it clear [SBAR/VP,1] [VP/VP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False
+pre  word are post [NP/NP,1] comple syntactic stucture  applies to [NP/NP,1] [NP/NP,2]  simple syntactic structure  are applicable to [NP/NP,1] [NP/NP,2]  ispre True ispost False

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Person</title>
+</head>
+<body>
+<form method="post" action="label_lexical">
+    <label>Search the lexical rules：</label> <input id="ComplexWord" name="ComplexWord" type="text" value=""><br/>
+    <input id="search" name="search" type="submit" value="Search">
+</form>
+<form method="post" action="/label_search">
+            {% for rule in rules %}
+{#                {{ rule.ComplexWord+" "+rule.SimpleWord  }}#}
+            <input type="checkbox" name={{ rule.ComplexWord+" -> "+rule.SimpleWord  }} value=charname checked="checked">{{ rule.ComplexWord+" "+rule.SimpleWord  }}<br>
+{#            <input type="checkbox" name="hobby" value="running" >{{rule.SimpleWord}}<br>#}
+             {% endfor %}
+            <input type="submit" value="submit">
+</form>
+
+{#<ul>#}
+{#     {% for rule in rules %}#}
+{#        <li>{{ rule.ComplexWord }}</li>#}
+{#         <li>{{ rule.SimpleWord }}</li>#}
+{#    {% endfor %}#}
+{#</ul>#}
+
+</body>
+</html>
+

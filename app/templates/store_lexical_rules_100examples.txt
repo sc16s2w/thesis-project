@@ -1,0 +1,550 @@
+&
+0
+One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+One side of the armed conflicts is made up mainly of the Sudanese military. The Janjaweed is a Sudanese militia group. They are mostly from the Afro-Arab Abbala tribes in the northern Rizeigat region of Sudan.
+rules
+ composed -> made 
+ recruited -> made
+1
+Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+Jeddah is the main gateway to Mecca, Islam's holiest city. Those who are able to go to Jeddah must visit it at least once a lifetime.
+rules
+ required -> must 
+ required -> who 
+ principal -> main
+2
+The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+The Great Dark Spot is thought to be a hole in the cloud deck of the planet Neptune.
+rules
+ thought -> be 
+3
+His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+His next work, Saturday, is about a very busy day in the life of a neurosurgeon.
+rules
+ follows -> is 
+4
+The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+The tarantula spun a black cord and, attaching it to the ball, crawled away fast to the east. The tarantula pulled on the cord with all his strength and speed.
+rules
+ crawled -> pulled 
+5
+There he died six weeks later, on 13 January 888.
+He died there six weeks later, on January 13, 888.
+rules
+6
+They are culturally akin to the coastal peoples of Papua New Guinea.
+They are a lot like the coastal peoples of Papua New Guinea.
+rules
+7
+Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+Since 2000, the winner of the Kate Greenaway Medal has also been given the Colin Mears Award, which is worth more than £5000.
+rules
+ value -> worth 
+ presented -> given 
+ presented -> which 
+ recipient -> winner 
+8
+Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+After the drummers are dancers, who often play the sogo ( a tiny drum that makes almost no sound ). Dancers often do more elaborate choreography, such as acrobatics.
+rules
+ following -> after 
+9
+The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+The ESA Huygens probe is named after the Dutch astronomer and mathematician Christiaan Huygens. The NASA Cassini orbiter is named after the Italian-French astronomer Giovanni Domenico Cassini. The ESA Huygens probe is named after the Dutch astronomer.
+rules
+10
+Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+Alessandro Mazzola ( born 8 November, 1942 ) is a former Italian football player.
+rules
+11
+It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+At first people thought that the debris thrown up by the collision filled in the smaller craters.
+rules
+ originally -> first 
+12
+Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+Graham went to Wheaton College from 1939 to 1943. He got a BA in anthropology in 1943.
+rules
+ graduated -> got
+ attended -> got
+ attended -> went 
+ college -> went 
+ graduated -> went 
+13
+However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+The BZ is a bit different from the Freedom Party. They are in favor of a referendum about the Lisbon Treaty but they are against an EU-Withdrawal.
+rules
+ differs -> different 
+14
+Many species had vanished by the end of the nineteenth century, with European settlement.
+Many species had died out by the end of the 19th century, and Europeans came.
+rules
+ vanished -> died 
+ had -> died 
+ nineteenth -> 19th
+15
+In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+In 1987, Wexler was added to the Rock and Roll Hall of Fame.
+rules
+16
+In its pure form, dextromethorphan occurs as a white powder.
+Dextromethorphan is found in its pure form as a white powder.
+rules
+ occurs -> is 
+ form -> is
+ form -> found 
+17
+Admission to Tsinghua is extremely competitive.
+Admission to Tsinghua is very difficult.
+rules
+ extremely -> very
+18
+Today NRC is organised as an independent, private foundation.
+Today NRC is run by a private, independent foundation.
+rules
+ organised -> run 
+19
+It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+It is on the coast of the Baltic Sea. The city of Stralsund is next to it.
+rules
+20
+He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+He was also named Sportsman of the Year in 1982 by Sports Illustrated.
+rules
+21
+Fives is a British sport believed to derive from the same origins as many racquet sports.
+Fives is a British sport. Many people think it has the same origins as many racquet sports.
+rules
+ origins -> people 
+22
+For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+For example, if king Bhumibol was born on Monday, he will have a yellow color on his birthday in Thailand.
+rules
+ throughout -> in 
+23
+Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+In 2007 both names were put back together when they became The National Museum of Scotland.
+rules
+ merged -> put 
+ became -> put 
+ became -> in 
+24
+Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+Tagore used many different styles, such as craftwork from northern New Ireland, Haida carvings from the west coast of Canada ( British Columbia ) and woodcuts by Max Pechstein.
+rules
+ numerous -> many 
+25
+On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+On October 14, 1960, John F. Kennedy came up with the idea of what would become the Peace Corps on the steps of Michigan Union.
+rules
+ proposed -> came 
+ became -> become 
+ concept -> idea 
+26
+She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+She sang for President Ronald Reagan in the series Great Performances at the White House. The series was shown on the Public Broadcasting Service.
+rules
+ performed -> sang 
+ aired -> shown 
+27
+Perry Saturn (with Terri) defeated Eddie Guerrero (with Chyna) to win the WWF European Championship (8:10) Saturn pinned Guerrero after a Diving elbow drop.
+Perry Saturn ( with Terri ) won against Eddie Guerrero ( with Chyna ) to win the WWF European Championship. Saturn pinned Guerrero after a Diving elbow drop.
+rules
+ defeated -> won
+28
+She remained in the United States until 1927 when she and her husband returned to France.
+She stayed in the United States until 1927 when she and her husband went back to France.
+rules
+ returned -> went 
+ remained -> went 
+ to -> went 
+ remained -> stayed
+29
+Despina was discovered in late July, 1989 from the images taken by the Voyager 2 probe.
+Despina was found in late July, 1989. It was found from images taken by Voyager 2.
+rules
+ discovered -> found
+30
+The first Italian Grand Prix motor racing championship took place on 4 September 1921 at Brescia.
+The first Italian Grand Prix race took place on September 4, 1921 in Brescia, Italy.
+rules
+ racing -> race
+ italian -> italy
+31
+He also completed two collections of short stories entitled The Ribbajack & Other Curious Yarns and Seven Strange and Ghostly Tales.
+He also wrote two books of short stories called The Ribbajack & Other Curious Yarns and Seven Strange and Ghostly Tales.
+rules
+ completed -> wrote 
+ entitled -> called
+ completed -> called 
+ collections -> books 
+ stories -> books 
+32
+At the Voyager 2 images Ophelia appears as an elongated object, the major axis pointing towards Uranus.
+At the Voyager 2 images Ophelia looks stretched out. The major axis of the object is towards Uranus.
+rules
+ appears -> is 
+ appears -> looks
+ images -> looks 
+ elongated -> stretched
+33
+The British decided to eliminate him and take the land by force.
+The British decided to kill him and take the whole area by force.
+rules
+34
+Some towns on the Eyre Highway in the south-east corner of Western Australia, between the South Australian border almost as far as Caiguna, do not follow official Western Australian time.
+Some towns on the Eyre Highway in the south-east corner of Western Australia do not follow Western Australian time. This is between the South Australian border almost as far as Caiguna.
+rules
+35
+In architectural decoration Small pieces of colored and iridescent shell have been used to create mosaics and inlays, which have been used to decorate walls, furniture and boxes.
+In architecture Small pieces of colored shell have been used to make mosaics and inlays. These have been used to decorate walls, furniture and boxes in the past.
+rules
+ architectural -> architecture
+36
+The other incorporated cities on the Palos Verdes Peninsula include Rancho Palos Verdes, Rolling Hills Estates and Rolling Hills.
+Other cities that are part of the Palos Verdes Peninsula are Rancho Palos Verdes, Rolling Hills and Rolling Hills.
+rules
+37
+Fearing that Drek will destroy the galaxy, Clank asks Ratchet to help him find the famous superhero Captain Qwark, in an effort to stop Drek.
+Fearing that Drek will destroy the galaxy, Clank asks Ratchet to help him find Captain Qwark. He tells Ratchet that he wants to stop Drek.
+rules
+ asks -> tells
+ asks -> wants 
+38
+It is not actually a true louse.
+It is not really a true louse.
+rules
+ actually -> really 
+ true -> really 
+39
+He advocates applying a user-centered design process in product development cycles and also works towards popularizing interaction design as a mainstream discipline.
+He likes to use a user-centered design process in product development cycles. He also likes to make interaction design more widely known.
+rules
+ towards -> to
+ applying -> use 
+40
+It is theoretically possible that the other editors who may have reported you, and the administrator who blocked you, are part of a conspiracy against someone half a world away they've never met in person.
+It is possible that the other editors who may have reported you, and the administrator who blocked you, are part of a plan to get someone half a world away from you, but they have never met you.
+rules
+41
+Working Group I: Assesses scientific aspects of the climate system and climate change.
+Working Group I : What scientists think about the climate system and climate change.
+rules
+ scientific -> scientists 
+42
+The island chain forms part of the Hebrides, separated from the Scottish mainland and from the Inner Hebrides by the stormy waters of the Minch, the Little Minch and the Sea of the Hebrides.
+The island chain is part of the Hebrides. It is separated from the mainland of Scotland and from the Inner Hebrides by the Minch River, the Little Minch River and the Sea of the Hebrides.
+rules
+ forms -> is
+ scottish -> scotland 
+43
+Orton and his wife welcomed Alanna Marie Orton on July 12, 2008.
+Orton gave birth to his wife Alanna Marie on July 12, 2008.
+rules
+ welcomed -> gave 
+44
+Formal minor planet designations are number-name combinations overseen by the Minor Planet Center, a branch of the IAU.
+Minor planet designations are number-name combinations that are done by the Minor Planet Center, a part of the IAU.
+rules
+45
+By early on September 30, wind shear began to dramatically increase and a weakening trend began.
+By early on September 30, wind shear began to increase a lot and it started to weaken.
+rules
+ began -> started
+46
+Each entry has a datum (a nugget of data) which is a copy of the datum in some backing store.
+Each entry has a datum ( a piece of data ). This is a copy of the datum in a store.
+rules
+47
+As a result, although many mosques will not enforce violations, both men and women when attending a mosque must adhere to these guidelines.
+As a result, many mosques will not make people do bad things, but both men and women when going to a mosque must follow these rules.
+rules
+ although -> but 
+ adhere -> follow 
+ attending -> going 
+ guidelines -> rules
+ violations -> rules 
+ violations -> things 
+ guidelines -> things 
+48
+Mariel of Redwall is a fantasy novel by Brian Jacques, published in 1991.
+Mariel of Redwall is a fantasy book that was written by Brian Jacques.
+rules
+ published -> was 
+ published -> written 
+49
+Ryan Prosser (born 10 July, 1988) is a professional rugby union player for Bristol Rugby in the Guinness Premiership.
+Ryan Prosser ( born July 10, 1988 ) is an English rugby union player. He plays for Bristol Rugby.
+rules
+50
+Like previous assessment reports, it consists of four reports, three of them from its working groups.
+Like other assessment reports, it has four reports. Three of them come from its working groups.
+rules
+ consists -> has 
+ reports -> has 
+51
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris, and their grandson Pierre Joliot, who was named after Pierre Curie, is a noted biochemist.
+Their granddaughter Hélène Langevin-Joliot is a professor of nuclear physics at the University of Paris. Their son Pierre Joliot, who was named after Pierre Curie, is also a well known biochemist.
+rules
+ noted -> well 
+ grandson -> son 
+ noted -> known 
+52
+This stamp remained the standard letter stamp for the remainder of Victoria's reign, and vast quantities were printed.
+This stamp remained the standard letter stamp for the rest of Victoria's reign. A large number of copies were printed.
+rules
+ remainder -> rest 
+ remained -> rest 
+ quantities -> number 
+ vast -> large 
+ quantities -> copies 
+ printed -> copies 
+53
+The International Fight League was an American mixed martial arts (MMA) promotion billed as the world's first MMA league.
+The International Fight League ( IFL ) is a mixed martial arts ( MMA ) league in the United States and Canada.
+rules
+54
+Giardia lamblia (synonymous with Lamblia intestinalis and Giardia duodenalis) is a flagellated protozoan parasite that colonises and reproduces in the small intestine, causing giardiasis.
+Giardia lamblia ( also known as Lamblia intestinalis or Giardia duodenalis ) is a flagellated protozoan parasite. It lives in the small intestine and causes giardiasis.
+rules
+ is -> causes
+55
+Aside from this, Cameron has often worked in Christian-themed productions, among them the post-Rapture films Left Behind: The Movie, Left Behind II: Tribulation Force, and Left Behind: World at War, in which he plays Cameron "Buck" Williams.
+Cameron has also worked in Christian-themed movies, such as Left Behind : The Movie, Left Behind II : Tribulation Force, and Left Behind : World at War. In Left Behind : World at War, he plays the part of Cameron Williams.
+rules
+ productions -> movies 
+ films -> movies
+56
+This was the area east of the mouth of the Vistula River, later sometimes called "Prussia proper".
+This was the area east of the mouth of the Vistula River. It was called '' Prussia proper ''.
+rules
+57
+After graduation he returned to Yerevan to teach at the local Conservatory and later he was appointed artistic director of the Armenian Philarmonic Orchestra.
+After he finished his studies, he went back to Yerevan to teach at the local Conservatory. Later he became artistic director of the Armenian Philharmonic Orchestra.
+rules
+ appointed -> became 
+ orchestra -> philharmonic 
+ returned -> went 
+58
+The story of Christmas is based on the biblical accounts given in the Gospel of Matthew, namely - and the Gospel of Luke, specifically -.
+The story of Christmas is based on what is written in the Gospel of Matthew, which is - and the Gospel of Luke, which is -.
+rules
+ given -> written 
+59
+Weelkes was later to find himself in trouble with the Chichester Cathedral authorities for his heavy drinking and immoderate behaviour.
+Weelkes was later to find himself in trouble with the Chichester Cathedral authorities because he had a lot of alcohol in his house.
+rules
+ drinking -> alcohol 
+ authorities -> had 
+60
+So far the 'celebrity' episodes have included Vic Reeves, Nancy Sorrell, Gaby Roslin, Scott Mills, Mark Chapman, Simon Gregson, Sue Cleaver, Carol Thatcher, Paul O'Grady and Lee Ryan.
+So far the celebrities have been Vic Reeves, Nancy Sorrell, Gaby Roslin, Scott Mills, Mark Chapman, Simon Gregson, Sue Cleaver, Paul O'Grady, and Lee Ryan.
+rules
+ included -> been 
+61
+It was discovered by Stephen P. Synnott in images from the Voyager 1 space probe taken on March 5, 1979 while orbiting around Jupiter.
+It was found by Stephen P. Synnott in images taken by the Voyager 1 space probe on March 5, 1979, while it was in orbit around Jupiter.
+rules
+ discovered -> found
+ was -> found 
+62
+Gomaespuma was a Spanish radio show, hosted by Juan Luis Cano and Guillermo Fesser.
+Gomaespuma is a Spanish radio show. It is hosted by Juan Luis Cano and Guillermo Fesser.
+rules
+63
+On 16 June 2009, the official release date of The Resistance was announced on the band's website.
+On June 16, 2009, the release date of The Resistance was announced on the band's official website.
+rules
+64
+He is also a member of another Jungiery boyband 183 Club.
+He is also a member of the boy band '' 183 Club ''.
+rules
+65
+The Apostolic Tradition, attributed to the theologian Hippolytus, attests the singing of Hallel psalms with Alleluia as the refrain in early Christian agape feasts.
+The Apostolic Tradition says that the singing of Hallel psalms with Alleluia as the refrain in early Christian agape feasts was done by the theologian Hippolytus.
+rules
+ attributed -> done 
+66
+In return, Rollo swore fealty to Charles, converted to Christianity, and undertook to defend the northern region of France against the incursions of other Viking groups.
+In return, Rollo swore loyalty to Charles and converted to Christianity. He also said he would defend the northern part of France against other Viking groups.
+rules
+ fealty -> loyalty 
+ undertook -> said 
+67
+It is derived from Voice of America (VoA) Special English.
+The name comes from Voice of America ( VoA ) Special English.
+rules
+68
+Disney received a full-size Oscar statuette and seven miniature ones, presented to him by 10-year-old child actress Shirley Temple.
+Disney got a full-size Oscar statuette and seven small ones. The statuette was given to him by child actress Shirley Temple.
+rules
+ received -> got
+ presented -> given
+ presented -> was 
+ received -> was 
+69
+It was the first asteroid to be discovered by a spacecraft.
+It was the first asteroids to be found by a spacecraft.
+rules
+ discovered -> was 
+ discovered -> found
+70
+Hinterrhein is an administrative district in the canton of Graubünden, Switzerland.
+Hinterrhein is a district of the canton of Graubünden in Switzerland.
+rules
+71
+It continues as the Bohemian Switzerland in the Czech Republic.
+It is known as the Bohemian Switzerland in the Czech Republic.
+rules
+ continues -> is 
+72
+This leads to consumer confusion when 220 (1,048,576) bytes is referenced as 1 MB (megabyte) instead of 1 MiB.
+This leads to confusion when 220 bytes is written as 1 MB ( '' megabyte '' ) instead of 1 MiB ( '' megabyte '' ).
+rules
+73
+The incident has been the subject of numerous reports as to ethics in scholarship.
+The incident has been the subject of many reports as to how ethical scholarship works.
+rules
+ numerous -> many 
+ reports -> works 
+ ethics -> ethical
+74
+They are castrated so that the animal may be more docile or may put on weight more quickly.
+They are castrated so that the animal may be able to eat well or put on weight more quickly.
+rules
+75
+Seventh sons have strong "knacks" (specific magical abilities), and seventh sons of seventh sons are both extraordinarily rare and powerful.
+Seventh sons have strong ''knacks '' ( special magical abilities ). Seventh sons of seventh sons are very rare and powerful.
+rules
+ extraordinarily -> very 
+ specific -> special
+76
+Benchmarking conducted by PassMark Software highlights the 2009 version's 52 second install time, 32 second scan time, and 7 MB memory utilization.
+Benchmarking done by PassMark Software shows the 2009 version has a 52 second install time, a 32 second scan time and a 7 MB memory usage.
+rules
+ highlights -> has 
+ highlights -> shows
+ conducted -> done 
+ utilization -> usage 
+77
+Volterra is a town in the Tuscany region of Italy.
+Volterra is a town in the region of Tuscany in Italy.
+rules
+78
+Historically, the sensations of itch and pain have not been considered to be independent of each other until recently, where it was found that itch has several features in common with pain, but exhibits notable differences.
+Historically, the sensations of itch and pain have not been thought to be independent of each other until recently, when it was found that itch has a lot of the same things as pain, but there are some differences.
+rules
+ features -> things 
+ considered -> thought
+ been -> thought 
+79
+The tongue is sticky because of the presence of glycoprotein-rich mucous, which both lubricates movement in and out of the snout and helps to catch ants and termites, which adhere to it.
+The tongue is sticky because of the presence of mucous. The mucous lubricates movement in and out of the snout. It also helps to catch ants and termites that stick to the tongue.
+rules
+ adhere -> stick 
+80
+The same tram had derailed on 30 May 2006 at Starr Gate loop during previous trials.
+The same tram had been hit by a train on 30 May 2006 at Starr Gate loop.
+rules
+ had -> hit
+81
+There are statues of Sir Alf Ramsey and Sir Bobby Robson, both former Ipswich Town and England managers, outside the ground.
+There are statues outside the ground of Sir Alf Ramsey and Sir Bobby Robson. Both were Ipswich Town and England managers.
+rules
+82
+Take the square root of the variance.
+rules
+83
+Volunteers provided food, blankets, water, children's toys, massages, and a live rock band performance for those at the stadium.
+Volunteers gave food, blankets, water, toys for children, massages, and a live rock band to those at the stadium.
+rules
+84
+Vouvray-sur-Huisne is a commune in the Sarthe department in the region of Pays-de-la-Loire in northwestern France.
+It is found in the region Pays de la Loire in the Sarthe department in the west of France.
+rules
+ northwestern -> west
+85
+If there are no strong land use controls, buildings are built along a bypass, converting it into an ordinary town road, and the bypass may eventually become as congested as the local streets it was intended to avoid.
+If there are no strong land use controls, buildings are built along a bypass. This turns it into an ordinary town road, and the bypass may become as busy as the local streets it was meant to avoid.
+rules
+ intended -> meant
+ was -> meant 
+ buildings -> turns 
+86
+It is also a starting point for people wanting to explore Cooktown, Cape York Peninsula, and the Atherton Tableland.
+It is also a good place to start to explore Cooktown, the Cape York Peninsula, and the Atherton Tableland.
+rules
+ starting -> start
+87
+Bruises often induce pain but are not normally dangerous.
+Bruises often cause pain but are not usually dangerous.
+rules
+ normally -> usually
+ induce -> cause 
+88
+None of the authors, contributors, sponsors, administrators, vandals, or anyone else connected with Wikipedia, in any way whatsoever, can be responsible for your use of the information contained in or linked from these web pages.
+None of the authors, contributors, sponsors, administrators, vandals, or anyone else connected with Wikipedia, in any way at all, can be responsible for your use of the information on these web pages.
+rules
+89
+George Frideric Handel also served as Kapellmeister for George, Elector of Hanover (who eventually became George I of Great Britain).
+George Frideric Handel was also Kapellmeister for George, Elector of Hanover ( who later became King George I of Great Britain ).
+rules
+ eventually -> later 
+ served -> was 
+90
+Their eyes are quite small, and their visual acuity is poor.
+Their eyes are quite small, and they can not see very well.
+rules
+ quite -> very
+ quite -> well 
+ eyes -> see 
+91
+They are rivaled as biological materials in toughness only by chitin.
+They are similar to biological materials in toughness only by chitin.
+rules
+92
+Oregano is an indispensable ingredient in Greek cuisine.
+Oregano is a very important ingredient in Greek food.
+rules
+93
+Tickets can be retailed for National Rail services, the Docklands Light Railway and on Oyster card.
+Tickets can be bought for National Rail services, the Docklands Light Railway and on the Oyster card.
+rules
+94
+These works he produced and published himself, whilst his much larger woodcuts were mostly commissioned work.
+These works he made and published himself. His much larger woodcuts were mostly made by other artists.
+rules
+ commissioned -> made
+ works -> made 
+ published -> made
+ works -> artists 
+95
+The historical method comprises the techniques and guidelines by which historians use primary sources and other evidence to research and then to write history.
+The historical method is a way by which historians use primary sources and other evidence to find out what happened and then to write about it.
+rules
+ comprises -> is 
+ sources -> find 
+ history -> happened 
+ method -> way 
+96
+The sheer weight of the continental icecap sitting on top of Lake Vostok is believed to contribute to the high oxygen concentration.
+The weight of the continental icecap sitting on top of Lake Vostok is thought to be a reason for the high amount of oxygen.
+rules
+ believed -> thought
+97
+As of 2000, the population was 89,148.
+In 2000, the population was 89,148.
+rules
+98
+Aliteracy (sometimes spelled alliteracy) is the state of being able to read but being uninterested in doing so.
+Aliteracy ( sometimes spelled alliteracy ) is the state of being able to read but not being interested in reading.
+rules
+ read -> reading
+ doing -> not 
+99
+Mifepristone is a synthetic steroid compound used as a pharmaceutical.
+Mifepristone is a type of steroid used as a drug.
+rules
+ pharmaceutical -> drug 
+ used -> type
+ used -> of 
